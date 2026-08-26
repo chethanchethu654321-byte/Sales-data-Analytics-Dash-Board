@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Location,Customer_Type,Category,Product,Quantity,Unit_Price,Discount_Percent,Discount_Amount,Net_Sales,Cost,Profit,Payment_Method
+1,2025-09-28 00:00:00,Mangaluru,Online,Home,Wall Clock,3,1194,0,0,3582,2026.27,1555.73,Cash
+2,2025-10-21 00:00:00,Hubballi,Retail,Electronics,USB Cable,2,1565,0,0,3130,2164.97,965.03,UPI
+3,2025-07-07 00:00:00,Mysuru,Retail,Home,Storage Box,7,1107,0,0,7749,5501.42,2247.58,Card
+4,2025-06-16 00:00:00,Davanagere,Online,Stationery,Notebook,2,63,0,0,126,69.84,56.16,Net Banking
+5,2025-09-21 00:00:00,Davanagere,Wholesale,Electronics,Power Bank,7,384,0.05,134.4,2553.6,1619.4,934.2,UPI
+6,2025-02-13 00:00:00,Hubballi,Retail,Fitness,Skipping Rope,2,2136,0.1,427.2,3844.8,2206.5,1638.3,Cash
+7,2025-12-04 00:00:00,Mangaluru,Online,Home,Wall Clock,7,941,0.05,329.35,6257.65,3908.03,2349.62,UPI
+8,2025-12-10 00:00:00,Mysuru,Online,Electronics,Wireless Mouse,1,2377,0.1,237.7,2139.3,1584.9,554.4,UPI
+9,2025-08-19 00:00:00,Mangaluru,Online,Stationery,Pen Set,2,184,0.05,18.4,349.6,223.51,126.09,Net Banking
+10,2025-02-04 00:00:00,Mysuru,Retail,Stationery,Marker Set,1,54,0,0,54,33.43,20.57,Card
+11,2025-06-28 00:00:00,Mangaluru,Online,Home,Storage Box,7,892,0.05,312.2,5931.8,4376.42,1555.38,Card
+12,2025-01-29 00:00:00,Bengaluru,Retail,Home,Water Bottle,4,1416,0.1,566.4,5097.6,3915.94,1181.66,Cash
+13,2025-02-13 00:00:00,Bengaluru,Retail,Home,Bedsheet,4,1504,0,0,6016,3887.54,2128.46,UPI
+14,2025-04-26 00:00:00,Mangaluru,Retail,Stationery,Notebook,5,408,0,0,2040,1351.91,688.09,Card
+15,2025-06-09 00:00:00,Mysuru,Retail,Electronics,Headphones,1,1486,0,0,1486,1096.67,389.33,UPI
+16,2025-07-06 00:00:00,Bengaluru,Online,Electronics,Wireless Mouse,1,351,0,0,351,225.75,125.25,Cash
+17,2025-08-06 00:00:00,Mangaluru,Wholesale,Electronics,USB Cable,6,1789,0,0,10734,6605.52,4128.48,Cash
+18,2025-07-20 00:00:00,Hubballi,Online,Home,Table Lamp,4,1499,0.1,599.6,5396.4,3442.95,1953.45,Cash
+19,2025-05-28 00:00:00,Hubballi,Retail,Home,Water Bottle,7,638,0.1,446.6,4019.4,2359.91,1659.49,UPI
+20,2025-04-09 00:00:00,Davanagere,Retail,Electronics,Keyboard,7,2137,0.05,747.95,14211.05,9848.34,4362.71,Net Banking
+21,2025-02-06 00:00:00,Bengaluru,Online,Fitness,Gym Gloves,3,1932,0.05,289.8,5506.2,4362.12,1144.08,UPI
+22,2025-09-11 00:00:00,Davanagere,Wholesale,Electronics,USB Cable,3,1846,0,0,5538,3502.5,2035.5,Card
+23,2025-06-10 00:00:00,Bengaluru,Online,Stationery,Notebook,4,553,0.05,110.6,2101.4,1564.82,536.58,Card
+24,2025-02-20 00:00:00,Bengaluru,Retail,Stationery,Desk Organizer,6,76,0,0,456,330.23,125.77,Net Banking
+25,2025-01-04 00:00:00,Mangaluru,Wholesale,Stationery,Marker Set,3,561,0.15,252.45,1430.55,968.32,462.23,Card
+26,2025-10-07 00:00:00,Mangaluru,Retail,Stationery,Desk Organizer,5,656,0.15,492,2788,1590.12,1197.88,Net Banking
+27,2025-05-08 00:00:00,Davanagere,Online,Fitness,Dumbbells,2,1596,0.05,159.6,3032.4,1747.38,1285.02,Card
+28,2025-09-30 00:00:00,Davanagere,Retail,Electronics,Keyboard,1,595,0,0,595,394.69,200.31,Net Banking
+29,2025-11-09 00:00:00,Hubballi,Online,Fitness,Skipping Rope,4,2049,0.05,409.8,7786.2,5955.38,1830.82,Card
+30,2025-11-18 00:00:00,Davanagere,Wholesale,Electronics,Keyboard,7,2332,0,0,16324,13305.64,3018.36,Cash
+31,2025-11-22 00:00:00,Hubballi,Retail,Electronics,Keyboard,7,1427,0,0,9989,7570.65,2418.35,Card
+32,2025-12-16 00:00:00,Mysuru,Wholesale,Electronics,Power Bank,7,618,0,0,4326,3308.09,1017.91,Card
+33,2025-04-27 00:00:00,Bengaluru,Retail,Electronics,Keyboard,6,1500,0.1,900,8100,5422.42,2677.58,UPI
+34,2025-07-11 00:00:00,Bengaluru,Retail,Stationery,Desk Organizer,7,296,0.05,103.6,1968.4,1166.94,801.46,Cash
+35,2025-04-04 00:00:00,Mangaluru,Online,Electronics,Wireless Mouse,6,1307,0,0,7842,5929.4,1912.6,Net Banking
+36,2025-01-23 00:00:00,Bengaluru,Retail,Electronics,Power Bank,2,2131,0,0,4262,3418.24,843.76,UPI
+37,2025-06-09 00:00:00,Mangaluru,Online,Electronics,Keyboard,3,1201,0,0,3603,2512.43,1090.57,UPI
+38,2025-02-12 00:00:00,Davanagere,Online,Fitness,Skipping Rope,4,1880,0,0,7520,4215.11,3304.89,Card
+39,2025-03-31 00:00:00,Mangaluru,Online,Electronics,Power Bank,6,767,0,0,4602,3396.82,1205.18,UPI
+40,2025-10-04 00:00:00,Hubballi,Wholesale,Electronics,Wireless Mouse,5,1025,0.1,512.5,4612.5,3770.43,842.07,UPI
+41,2025-09-25 00:00:00,Hubballi,Retail,Fitness,Gym Gloves,1,1116,0,0,1116,885.76,230.24,Cash
+42,2025-06-26 00:00:00,Hubballi,Online,Electronics,Headphones,4,745,0,0,2980,1895.92,1084.08,Cash
+43,2025-03-10 00:00:00,Mangaluru,Retail,Stationery,Desk Organizer,3,518,0.1,155.4,1398.6,1064.26,334.34,Cash
+44,2025-05-13 00:00:00,Davanagere,Wholesale,Fitness,Skipping Rope,3,2116,0,0,6348,3736.48,2611.52,Net Banking
+45,2025-06-17 00:00:00,Mysuru,Retail,Fitness,Gym Gloves,2,1467,0,0,2934,1680.91,1253.09,UPI
+46,2025-11-23 00:00:00,Mysuru,Wholesale,Fitness,Yoga Mat,1,1525,0,0,1525,1158.74,366.26,Cash
+47,2025-06-22 00:00:00,Bengaluru,Online,Home,Water Bottle,5,1393,0.05,348.25,6616.75,5009.82,1606.93,UPI
+48,2025-07-09 00:00:00,Davanagere,Retail,Stationery,File Folder,1,418,0.1,41.8,376.2,229.62,146.58,Net Banking
+49,2025-03-21 00:00:00,Davanagere,Online,Stationery,Desk Organizer,6,278,0.05,83.4,1584.6,1286.24,298.36,UPI
+50,2025-02-23 00:00:00,Hubballi,Retail,Electronics,Wireless Mouse,6,820,0.15,738,4182,3305.33,876.67,Net Banking
+51,2025-03-31 00:00:00,Bengaluru,Retail,Electronics,USB Cable,2,889,0.15,266.7,1511.3,1116.1,395.2,UPI
+52,2025-08-08 00:00:00,Bengaluru,Wholesale,Home,Wall Clock,5,1720,0.1,860,7740,5773.61,1966.39,Cash
+53,2025-09-08 00:00:00,Mysuru,Retail,Fitness,Skipping Rope,5,1338,0,0,6690,5459.22,1230.78,Cash
+54,2025-10-10 00:00:00,Hubballi,Retail,Home,Water Bottle,1,1783,0,0,1783,987.23,795.77,UPI
+55,2025-01-23 00:00:00,Bengaluru,Online,Fitness,Dumbbells,5,1418,0,0,7090,4292.02,2797.98,UPI
+56,2025-10-15 00:00:00,Mysuru,Online,Stationery,Notebook,2,600,0,0,1200,814.29,385.71,Cash
+57,2025-08-10 00:00:00,Mangaluru,Wholesale,Fitness,Resistance Band,3,1016,0,0,3048,2297.85,750.15,Cash
+58,2025-08-14 00:00:00,Bengaluru,Wholesale,Fitness,Resistance Band,6,1108,0,0,6648,4960.25,1687.75,UPI
+59,2025-01-30 00:00:00,Hubballi,Retail,Fitness,Resistance Band,7,433,0.1,303.1,2727.9,2066.68,661.22,Cash
+60,2025-07-24 00:00:00,Hubballi,Retail,Stationery,Pen Set,6,232,0,0,1392,817.78,574.22,Card
+61,2025-04-03 00:00:00,Davanagere,Retail,Fitness,Dumbbells,2,1676,0.1,335.2,3016.8,1940.32,1076.48,Cash
+62,2025-05-13 00:00:00,Mysuru,Retail,Electronics,Wireless Mouse,1,873,0,0,873,557.96,315.04,Cash
+63,2025-08-02 00:00:00,Hubballi,Retail,Fitness,Yoga Mat,7,1080,0,0,7560,4163.3,3396.7,Net Banking
+64,2025-06-29 00:00:00,Davanagere,Retail,Stationery,Desk Organizer,7,105,0,0,735,555.06,179.94,Cash
+65,2025-01-07 00:00:00,Mysuru,Online,Electronics,Headphones,3,1996,0,0,5988,4695.48,1292.52,Card
+66,2025-01-28 00:00:00,Bengaluru,Retail,Electronics,Power Bank,2,1412,0,0,2824,1644.52,1179.48,Net Banking
+67,2025-03-08 00:00:00,Bengaluru,Online,Home,Storage Box,1,260,0.05,13,247,173.05,73.95,Cash
+68,2025-10-09 00:00:00,Hubballi,Wholesale,Electronics,USB Cable,2,2325,0,0,4650,2840.41,1809.59,Card
+69,2025-09-04 00:00:00,Davanagere,Online,Electronics,Wireless Mouse,3,592,0.15,266.4,1509.6,875.95,633.65,Net Banking
+70,2025-04-04 00:00:00,Mysuru,Retail,Electronics,Wireless Mouse,6,1296,0.05,388.8,7387.2,5203.07,2184.13,Net Banking
+71,2025-04-28 00:00:00,Davanagere,Wholesale,Electronics,Keyboard,4,2160,0,0,8640,5019.89,3620.11,Net Banking
+72,2025-12-22 00:00:00,Mangaluru,Wholesale,Electronics,Headphones,5,2376,0,0,11880,9709.4,2170.6,Net Banking
+73,2025-11-25 00:00:00,Hubballi,Wholesale,Electronics,Power Bank,1,2344,0,0,2344,1877.48,466.52,Cash
+74,2025-05-17 00:00:00,Mysuru,Retail,Fitness,Dumbbells,2,1593,0.05,159.3,3026.7,2352.64,674.06,UPI
+75,2025-08-01 00:00:00,Mangaluru,Wholesale,Electronics,Headphones,5,2402,0,0,12010,7769.08,4240.92,UPI
+76,2025-05-05 00:00:00,Davanagere,Wholesale,Stationery,Marker Set,6,624,0.05,187.2,3556.8,2297.51,1259.29,UPI
+77,2025-02-08 00:00:00,Mangaluru,Retail,Fitness,Dumbbells,3,1452,0,0,4356,2559.6,1796.4,Net Banking
+78,2025-06-06 00:00:00,Davanagere,Wholesale,Stationery,Marker Set,6,460,0,0,2760,1670.43,1089.57,UPI
+79,2025-04-28 00:00:00,Mangaluru,Retail,Fitness,Yoga Mat,6,2150,0,0,12900,8478.75,4421.25,UPI
+80,2025-06-22 00:00:00,Mysuru,Wholesale,Electronics,USB Cable,2,444,0,0,888,571.28,316.72,Cash
+81,2025-10-29 00:00:00,Hubballi,Retail,Home,Storage Box,3,1142,0.1,342.6,3083.4,2471.88,611.52,Net Banking
+82,2025-04-02 00:00:00,Mysuru,Online,Electronics,Keyboard,7,2278,0,0,15946,12388.75,3557.25,UPI
+83,2025-12-12 00:00:00,Mangaluru,Online,Electronics,Power Bank,6,1555,0,0,9330,5704.33,3625.67,UPI
+84,2025-11-09 00:00:00,Davanagere,Online,Stationery,Pen Set,5,293,0.1,146.5,1318.5,1053.74,264.76,Cash
+85,2025-12-30 00:00:00,Bengaluru,Retail,Fitness,Dumbbells,3,1453,0,0,4359,3474.16,884.84,Card
+86,2025-06-05 00:00:00,Hubballi,Online,Electronics,Keyboard,2,1842,0,0,3684,2438.62,1245.38,UPI
+87,2025-08-12 00:00:00,Mangaluru,Retail,Electronics,Wireless Mouse,5,1339,0.05,334.75,6360.25,4098.13,2262.12,UPI
+88,2025-01-18 00:00:00,Mysuru,Online,Home,Water Bottle,1,1348,0,0,1348,887.26,460.74,Net Banking
+89,2025-02-24 00:00:00,Hubballi,Wholesale,Electronics,Power Bank,7,1149,0,0,8043,6162.57,1880.43,Card
+90,2025-11-09 00:00:00,Mysuru,Retail,Stationery,Notebook,7,377,0,0,2639,1857.2,781.8,Net Banking
+91,2025-10-18 00:00:00,Mangaluru,Wholesale,Electronics,Keyboard,6,1661,0,0,9966,7279,2687,Card
+92,2025-01-07 00:00:00,Mangaluru,Wholesale,Home,Storage Box,2,300,0,0,600,471.98,128.02,Cash
+93,2025-01-11 00:00:00,Bengaluru,Wholesale,Fitness,Gym Gloves,2,1392,0,0,2784,2000.36,783.64,UPI
+94,2025-12-08 00:00:00,Bengaluru,Wholesale,Electronics,USB Cable,4,1653,0.15,991.8,5620.2,3805.93,1814.27,Card
+95,2025-02-09 00:00:00,Hubballi,Wholesale,Home,Table Lamp,2,1454,0,0,2908,2254.95,653.05,Cash
+96,2025-08-03 00:00:00,Davanagere,Retail,Fitness,Skipping Rope,5,377,0,0,1885,1330.17,554.83,UPI
+97,2025-03-17 00:00:00,Mangaluru,Retail,Stationery,Pen Set,7,336,0.05,117.6,2234.4,1380.18,854.22,UPI
+98,2025-07-09 00:00:00,Davanagere,Retail,Electronics,Power Bank,2,1949,0,0,3898,2778.69,1119.31,UPI
+99,2025-06-13 00:00:00,Mangaluru,Retail,Fitness,Dumbbells,1,1583,0,0,1583,1154.31,428.69,Cash
+100,2025-08-15 00:00:00,Bengaluru,Retail,Electronics,USB Cable,4,714,0,0,2856,1836.36,1019.64,UPI
+101,2025-01-25 00:00:00,Davanagere,Online,Stationery,Pen Set,7,278,0.05,97.3,1848.7,1152.63,696.07,UPI
+102,2025-11-01 00:00:00,Mysuru,Online,Electronics,Headphones,5,1390,0,0,6950,3985.2,2964.8,UPI
+103,2025-07-17 00:00:00,Davanagere,Online,Fitness,Gym Gloves,1,2195,0,0,2195,1604.28,590.72,UPI
+104,2025-03-27 00:00:00,Davanagere,Online,Electronics,Power Bank,2,740,0,0,1480,1183.39,296.61,Card
+105,2025-04-13 00:00:00,Mysuru,Wholesale,Fitness,Resistance Band,1,437,0,0,437,344.77,92.23,Card
+106,2025-01-04 00:00:00,Davanagere,Online,Home,Table Lamp,5,1570,0,0,7850,6175.59,1674.41,Card
+107,2025-09-04 00:00:00,Mangaluru,Wholesale,Fitness,Dumbbells,5,2012,0,0,10060,5558.76,4501.24,UPI
+108,2025-08-24 00:00:00,Hubballi,Retail,Home,Wall Clock,1,1613,0.05,80.65,1532.35,1015.64,516.71,UPI
+109,2025-05-22 00:00:00,Bengaluru,Online,Electronics,Headphones,6,2383,0,0,14298,7932.9,6365.1,UPI
+110,2025-05-20 00:00:00,Mysuru,Wholesale,Home,Bedsheet,3,210,0.15,94.5,535.5,422.37,113.13,UPI
+111,2025-09-17 00:00:00,Mysuru,Wholesale,Fitness,Resistance Band,3,1134,0.1,340.2,3061.8,1783.47,1278.33,UPI
+112,2025-09-16 00:00:00,Davanagere,Retail,Electronics,Wireless Mouse,6,2146,0.1,1287.6,11588.4,9276.43,2311.97,UPI
+113,2025-06-27 00:00:00,Mangaluru,Online,Electronics,Headphones,2,2459,0.1,491.8,4426.2,2702.63,1723.57,UPI
+114,2025-04-08 00:00:00,Bengaluru,Wholesale,Stationery,Desk Organizer,3,372,0,0,1116,881.6,234.4,Net Banking
+115,2025-09-18 00:00:00,Davanagere,Wholesale,Electronics,Wireless Mouse,3,1304,0,0,3912,2886.44,1025.56,Cash
+116,2025-10-11 00:00:00,Mysuru,Wholesale,Fitness,Gym Gloves,5,1313,0.1,656.5,5908.5,4072.97,1835.53,Card
+117,2025-02-09 00:00:00,Bengaluru,Online,Home,Storage Box,3,1462,0.05,219.3,4166.7,3032.45,1134.25,Card
+118,2025-12-29 00:00:00,Mangaluru,Online,Electronics,Power Bank,5,2066,0.05,516.5,9813.5,5898.79,3914.71,UPI
+119,2025-01-31 00:00:00,Hubballi,Wholesale,Fitness,Dumbbells,7,1710,0.05,598.5,11371.5,6747.91,4623.59,Cash
+120,2025-10-22 00:00:00,Davanagere,Retail,Fitness,Resistance Band,2,1940,0.15,582,3298,2376.5,921.5,Card
+121,2025-03-15 00:00:00,Hubballi,Wholesale,Electronics,Headphones,1,1597,0,0,1597,1203.34,393.66,Net Banking
+122,2025-01-12 00:00:00,Mangaluru,Online,Home,Table Lamp,6,854,0,0,5124,3997.5,1126.5,Card
+123,2025-01-07 00:00:00,Davanagere,Online,Stationery,File Folder,5,695,0,0,3475,2634.08,840.92,Cash
+124,2025-10-12 00:00:00,Mangaluru,Online,Electronics,Keyboard,4,2350,0,0,9400,7187.23,2212.77,Net Banking
+125,2025-01-22 00:00:00,Mangaluru,Online,Fitness,Resistance Band,3,997,0,0,2991,2235.6,755.4,Net Banking
+126,2025-09-14 00:00:00,Hubballi,Wholesale,Home,Table Lamp,2,1700,0,0,3400,2468.23,931.77,Card
+127,2025-03-13 00:00:00,Hubballi,Online,Home,Water Bottle,4,1778,0.05,355.6,6756.4,5257.1,1499.3,Card
+128,2025-06-30 00:00:00,Bengaluru,Wholesale,Fitness,Resistance Band,4,776,0,0,3104,1805.51,1298.49,Net Banking
+129,2025-06-15 00:00:00,Mangaluru,Retail,Electronics,Wireless Mouse,1,1363,0.05,68.15,1294.85,820.67,474.18,Net Banking
+130,2025-04-05 00:00:00,Mysuru,Wholesale,Home,Storage Box,6,160,0.1,96,864,657.12,206.88,Card
+131,2025-03-17 00:00:00,Davanagere,Wholesale,Electronics,Wireless Mouse,1,2045,0.05,102.25,1942.75,1436.99,505.76,Net Banking
+132,2025-10-16 00:00:00,Davanagere,Wholesale,Electronics,Wireless Mouse,1,2299,0,0,2299,1346.83,952.17,Cash
+133,2025-04-16 00:00:00,Bengaluru,Wholesale,Fitness,Skipping Rope,7,884,0,0,6188,4967.59,1220.41,Net Banking
+134,2025-12-14 00:00:00,Hubballi,Wholesale,Fitness,Skipping Rope,6,500,0,0,3000,2185.26,814.74,Cash
+135,2025-05-07 00:00:00,Mysuru,Wholesale,Fitness,Dumbbells,1,336,0.05,16.8,319.2,216.87,102.33,Card
+136,2025-06-22 00:00:00,Mangaluru,Retail,Fitness,Resistance Band,5,2085,0.05,521.25,9903.75,7370.22,2533.53,Card
+137,2025-08-31 00:00:00,Mangaluru,Online,Stationery,Pen Set,3,256,0.1,76.8,691.2,412.67,278.53,Cash
+138,2025-10-20 00:00:00,Bengaluru,Wholesale,Stationery,File Folder,4,581,0,0,2324,1822.24,501.76,UPI
+139,2025-03-07 00:00:00,Hubballi,Online,Home,Bedsheet,7,1081,0.05,378.35,7188.65,5724.6,1464.05,UPI
+140,2025-08-13 00:00:00,Davanagere,Online,Home,Wall Clock,3,1693,0.05,253.95,4825.05,3477.83,1347.22,UPI
+141,2025-02-10 00:00:00,Davanagere,Online,Fitness,Gym Gloves,6,263,0,0,1578,1020.95,557.05,Cash
+142,2025-01-28 00:00:00,Mysuru,Wholesale,Stationery,Notebook,2,498,0.05,49.8,946.2,621.75,324.45,Card
+143,2025-04-03 00:00:00,Bengaluru,Retail,Home,Storage Box,2,1534,0,0,3068,2198.62,869.38,Net Banking
+144,2025-05-01 00:00:00,Hubballi,Online,Home,Bedsheet,3,836,0.05,125.4,2382.6,1764.21,618.39,Card
+145,2025-11-30 00:00:00,Mysuru,Wholesale,Stationery,Marker Set,2,342,0,0,684,494.4,189.6,UPI
+146,2025-06-10 00:00:00,Mysuru,Wholesale,Fitness,Gym Gloves,1,525,0.15,78.75,446.25,361.72,84.53,Cash
+147,2025-07-04 00:00:00,Hubballi,Online,Home,Wall Clock,7,1357,0,0,9499,6934.78,2564.22,Net Banking
+148,2025-12-02 00:00:00,Mangaluru,Online,Electronics,USB Cable,2,1241,0,0,2482,1815.84,666.16,Cash
+149,2025-11-07 00:00:00,Bengaluru,Online,Electronics,Wireless Mouse,7,2343,0.1,1640.1,14760.9,11564.34,3196.56,Net Banking
+150,2025-10-16 00:00:00,Davanagere,Wholesale,Fitness,Resistance Band,1,1342,0.05,67.1,1274.9,821.18,453.72,Net Banking
+151,2025-06-10 00:00:00,Hubballi,Wholesale,Electronics,Wireless Mouse,1,1462,0.05,73.1,1388.9,1040.82,348.08,UPI
+152,2025-04-12 00:00:00,Bengaluru,Retail,Fitness,Resistance Band,3,1604,0,0,4812,3032.3,1779.7,Card
+153,2025-07-18 00:00:00,Mysuru,Wholesale,Stationery,Pen Set,7,654,0.05,228.9,4349.1,3032.78,1316.32,Cash
+154,2025-09-22 00:00:00,Bengaluru,Retail,Stationery,Pen Set,3,499,0.1,149.7,1347.3,1037.04,310.26,Cash
+155,2025-08-16 00:00:00,Mysuru,Retail,Home,Bedsheet,7,1093,0.05,382.55,7268.45,5401.79,1866.66,UPI
+156,2025-05-04 00:00:00,Mysuru,Wholesale,Electronics,Power Bank,7,2177,0,0,15239,10353.06,4885.94,Cash
+157,2025-02-21 00:00:00,Davanagere,Wholesale,Home,Wall Clock,6,900,0.05,270,5130,2945.64,2184.36,UPI
+158,2025-12-11 00:00:00,Bengaluru,Wholesale,Fitness,Skipping Rope,6,1859,0.05,557.7,10596.3,6356.06,4240.24,UPI
+159,2025-03-25 00:00:00,Mangaluru,Online,Electronics,USB Cable,4,2148,0,0,8592,4986.13,3605.87,Cash
+160,2025-01-26 00:00:00,Bengaluru,Wholesale,Fitness,Resistance Band,1,1906,0.1,190.6,1715.4,1360.32,355.08,Card
+161,2025-06-01 00:00:00,Hubballi,Wholesale,Fitness,Skipping Rope,3,491,0,0,1473,903.71,569.29,UPI
+162,2025-05-30 00:00:00,Mangaluru,Retail,Electronics,Wireless Mouse,5,1337,0,0,6685,4382.32,2302.68,Cash
+163,2025-09-20 00:00:00,Hubballi,Wholesale,Electronics,Headphones,5,1927,0.05,481.75,9153.25,5073.39,4079.86,Card
+164,2025-10-15 00:00:00,Mysuru,Wholesale,Stationery,Pen Set,7,402,0,0,2814,1793.39,1020.61,UPI
+165,2025-02-18 00:00:00,Davanagere,Online,Stationery,Desk Organizer,4,477,0.05,95.4,1812.6,1129.63,682.97,Cash
+166,2025-09-16 00:00:00,Hubballi,Wholesale,Electronics,Keyboard,6,1503,0,0,9018,7383.76,1634.24,Net Banking
+167,2025-11-29 00:00:00,Hubballi,Retail,Electronics,Power Bank,5,1366,0,0,6830,4587.03,2242.97,Net Banking
+168,2025-01-03 00:00:00,Hubballi,Retail,Stationery,File Folder,6,397,0,0,2382,1948.41,433.59,UPI
+169,2025-08-19 00:00:00,Hubballi,Retail,Stationery,File Folder,1,509,0,0,509,288.62,220.38,Card
+170,2025-12-27 00:00:00,Davanagere,Wholesale,Electronics,Keyboard,5,2360,0.1,1180,10620,6643.02,3976.98,Card
+171,2025-05-23 00:00:00,Davanagere,Retail,Electronics,Headphones,6,1689,0,0,10134,6660.45,3473.55,Card
+172,2025-06-07 00:00:00,Mysuru,Wholesale,Stationery,Pen Set,6,56,0.1,33.6,302.4,192.65,109.75,Card
+173,2025-07-25 00:00:00,Bengaluru,Wholesale,Stationery,Pen Set,4,586,0,0,2344,1487.75,856.25,Net Banking
+174,2025-01-25 00:00:00,Hubballi,Retail,Fitness,Gym Gloves,5,1853,0,0,9265,7038.76,2226.24,Card
+175,2025-11-12 00:00:00,Mysuru,Retail,Home,Storage Box,7,821,0.05,287.35,5459.65,3540.56,1919.09,Card
+176,2025-05-10 00:00:00,Mysuru,Retail,Electronics,Wireless Mouse,6,1039,0.15,935.1,5298.9,3256.59,2042.31,UPI
+177,2025-09-20 00:00:00,Hubballi,Retail,Fitness,Dumbbells,4,1825,0.1,730,6570,4704.84,1865.16,Net Banking
+178,2025-03-04 00:00:00,Mangaluru,Retail,Stationery,Pen Set,5,532,0,0,2660,1808.91,851.09,Cash
+179,2025-03-03 00:00:00,Bengaluru,Retail,Fitness,Skipping Rope,3,1744,0,0,5232,3633.8,1598.2,UPI
+180,2025-08-01 00:00:00,Mangaluru,Online,Fitness,Gym Gloves,5,714,0,0,3570,2491.68,1078.32,UPI
+181,2025-02-03 00:00:00,Davanagere,Retail,Home,Bedsheet,4,743,0.05,148.6,2823.4,2208.13,615.27,Cash
+182,2025-07-11 00:00:00,Davanagere,Wholesale,Fitness,Yoga Mat,1,1403,0,0,1403,868.12,534.88,Cash
+183,2025-10-11 00:00:00,Mangaluru,Online,Electronics,Power Bank,3,1108,0.05,166.2,3157.8,1793.62,1364.18,UPI
+184,2025-03-28 00:00:00,Mysuru,Online,Stationery,Notebook,5,249,0.05,62.25,1182.75,860.97,321.78,Net Banking
+185,2025-10-04 00:00:00,Mysuru,Online,Electronics,USB Cable,2,2300,0.15,690,3910,3145.3,764.7,Card
+186,2025-12-16 00:00:00,Bengaluru,Retail,Home,Wall Clock,6,287,0,0,1722,1397.1,324.9,Cash
+187,2025-02-18 00:00:00,Davanagere,Wholesale,Stationery,Marker Set,4,218,0,0,872,489.48,382.52,UPI
+188,2025-09-15 00:00:00,Mysuru,Wholesale,Electronics,Headphones,6,1130,0.1,678,6102,4437.67,1664.33,Card
+189,2025-07-02 00:00:00,Hubballi,Retail,Electronics,Keyboard,1,2038,0,0,2038,1271.56,766.44,Net Banking
+190,2025-05-02 00:00:00,Mangaluru,Wholesale,Electronics,Wireless Mouse,6,388,0,0,2328,1754.99,573.01,Net Banking
+191,2025-08-12 00:00:00,Davanagere,Wholesale,Stationery,File Folder,3,284,0.1,85.2,766.8,430.68,336.12,UPI
+192,2025-10-10 00:00:00,Mangaluru,Retail,Stationery,File Folder,2,137,0.05,13.7,260.3,181.27,79.03,Net Banking
+193,2025-01-23 00:00:00,Davanagere,Wholesale,Stationery,Marker Set,5,416,0.05,104,1976,1172.2,803.8,Net Banking
+194,2025-09-18 00:00:00,Bengaluru,Wholesale,Fitness,Resistance Band,3,1497,0.1,449.1,4041.9,2940.65,1101.25,UPI
+195,2025-03-07 00:00:00,Hubballi,Retail,Stationery,Marker Set,1,549,0,0,549,414.75,134.25,Cash
+196,2025-01-20 00:00:00,Mangaluru,Wholesale,Electronics,Keyboard,3,2128,0,0,6384,3726.17,2657.83,Net Banking
+197,2025-10-20 00:00:00,Bengaluru,Retail,Electronics,Keyboard,6,1842,0.05,552.6,10499.4,6782.44,3716.96,Net Banking
+198,2025-08-09 00:00:00,Davanagere,Wholesale,Home,Bedsheet,6,847,0.05,254.1,4827.9,3442.01,1385.89,Cash
+199,2025-03-01 00:00:00,Mangaluru,Online,Stationery,File Folder,3,455,0,0,1365,1040.02,324.98,Net Banking
+200,2025-08-16 00:00:00,Mysuru,Online,Home,Wall Clock,6,262,0,0,1572,958.24,613.76,Card
+201,2025-04-28 00:00:00,Hubballi,Online,Fitness,Resistance Band,5,1533,0,0,7665,4584.65,3080.35,Card
+202,2025-03-02 00:00:00,Bengaluru,Online,Stationery,Desk Organizer,2,668,0.05,66.8,1269.2,899.04,370.16,UPI
+203,2025-02-04 00:00:00,Davanagere,Retail,Fitness,Dumbbells,6,2105,0,0,12630,9683.59,2946.41,Net Banking
+204,2025-05-06 00:00:00,Hubballi,Retail,Electronics,USB Cable,7,1359,0.05,475.65,9037.35,6838.46,2198.89,Card
+205,2025-02-05 00:00:00,Hubballi,Wholesale,Fitness,Yoga Mat,5,663,0,0,3315,2070.03,1244.97,Net Banking
+206,2025-08-05 00:00:00,Mysuru,Retail,Fitness,Skipping Rope,5,1969,0,0,9845,7062,2783,UPI
+207,2025-01-07 00:00:00,Mangaluru,Wholesale,Home,Table Lamp,6,821,0,0,4926,3882.56,1043.44,Cash
+208,2025-06-14 00:00:00,Bengaluru,Online,Home,Table Lamp,2,1255,0.05,125.5,2384.5,1434.57,949.93,Card
+209,2025-06-10 00:00:00,Bengaluru,Retail,Fitness,Resistance Band,2,1266,0.1,253.2,2278.8,1598.65,680.15,UPI
+210,2025-02-12 00:00:00,Davanagere,Retail,Fitness,Skipping Rope,1,1215,0,0,1215,946.08,268.92,UPI
+211,2025-03-07 00:00:00,Hubballi,Online,Fitness,Yoga Mat,2,886,0.05,88.6,1683.4,1057.95,625.45,Cash
+212,2025-11-15 00:00:00,Hubballi,Wholesale,Fitness,Dumbbells,1,526,0,0,526,336.2,189.8,Card
+213,2025-03-20 00:00:00,Bengaluru,Wholesale,Electronics,Power Bank,6,1131,0.05,339.3,6446.7,3592.97,2853.73,Card
+214,2025-02-11 00:00:00,Mysuru,Retail,Fitness,Yoga Mat,4,2064,0.1,825.6,7430.4,4849.92,2580.48,Card
+215,2025-03-15 00:00:00,Davanagere,Wholesale,Electronics,USB Cable,4,825,0.05,165,3135,2399.64,735.36,Net Banking
+216,2025-09-20 00:00:00,Bengaluru,Online,Stationery,File Folder,3,675,0.15,303.75,1721.25,1012.08,709.17,Net Banking
+217,2025-06-25 00:00:00,Mysuru,Wholesale,Home,Bedsheet,3,409,0.1,122.7,1104.3,642.44,461.86,Card
+218,2025-01-21 00:00:00,Mysuru,Retail,Fitness,Gym Gloves,6,1173,0.1,703.8,6334.2,4214.92,2119.28,UPI
+219,2025-10-08 00:00:00,Hubballi,Wholesale,Electronics,USB Cable,4,1279,0,0,5116,3999.22,1116.78,Cash
+220,2025-12-30 00:00:00,Mangaluru,Wholesale,Electronics,USB Cable,4,1599,0,0,6396,3817.87,2578.13,Cash
+221,2025-06-29 00:00:00,Bengaluru,Retail,Stationery,Marker Set,2,387,0.05,38.7,735.3,490.88,244.42,Net Banking
+222,2025-10-16 00:00:00,Bengaluru,Retail,Home,Water Bottle,4,1239,0,0,4956,3637.96,1318.04,Net Banking
+223,2025-01-04 00:00:00,Hubballi,Wholesale,Electronics,Headphones,2,2294,0,0,4588,2899.92,1688.08,Net Banking
+224,2025-12-21 00:00:00,Mysuru,Online,Fitness,Yoga Mat,4,1388,0.1,555.2,4996.8,3653.15,1343.65,Cash
+225,2025-11-24 00:00:00,Davanagere,Wholesale,Home,Bedsheet,6,1715,0,0,10290,6830.4,3459.6,Card
+226,2025-03-24 00:00:00,Bengaluru,Online,Electronics,Wireless Mouse,6,1799,0.15,1619.1,9174.9,6585.4,2589.5,Net Banking
+227,2025-10-02 00:00:00,Bengaluru,Retail,Fitness,Resistance Band,7,2102,0,0,14714,9138.8,5575.2,Net Banking
+228,2025-11-05 00:00:00,Mangaluru,Wholesale,Electronics,Headphones,3,390,0,0,1170,751.03,418.97,UPI
+229,2025-02-04 00:00:00,Mangaluru,Online,Electronics,USB Cable,3,843,0.05,126.45,2402.55,1485.07,917.48,Net Banking
+230,2025-07-20 00:00:00,Mangaluru,Online,Electronics,Power Bank,5,2278,0,0,11390,9203.95,2186.05,Card
+231,2025-06-23 00:00:00,Mysuru,Wholesale,Electronics,USB Cable,7,876,0,0,6132,4377.72,1754.28,Net Banking
+232,2025-05-12 00:00:00,Hubballi,Wholesale,Fitness,Dumbbells,7,1021,0,0,7147,4871.9,2275.1,Net Banking
+233,2025-09-14 00:00:00,Davanagere,Retail,Stationery,Notebook,7,311,0.1,217.7,1959.3,1203.97,755.33,UPI
+234,2025-12-21 00:00:00,Hubballi,Retail,Home,Table Lamp,6,1605,0,0,9630,7463.21,2166.79,Cash
+235,2025-07-11 00:00:00,Bengaluru,Retail,Home,Wall Clock,6,531,0.1,318.6,2867.4,1797.38,1070.02,Card
+236,2025-02-08 00:00:00,Mangaluru,Retail,Fitness,Yoga Mat,5,1932,0,0,9660,7737.13,1922.87,Net Banking
+237,2025-03-13 00:00:00,Hubballi,Wholesale,Home,Bedsheet,5,1282,0,0,6410,4951.23,1458.77,UPI
+238,2025-06-23 00:00:00,Mangaluru,Online,Electronics,Headphones,7,1076,0.1,753.2,6778.8,4941.2,1837.6,Card
+239,2025-04-23 00:00:00,Davanagere,Online,Home,Bedsheet,1,1551,0.05,77.55,1473.45,1080.39,393.06,Card
+240,2025-02-20 00:00:00,Mysuru,Wholesale,Stationery,Pen Set,6,133,0,0,798,633.34,164.66,Net Banking
+241,2025-09-25 00:00:00,Bengaluru,Online,Fitness,Yoga Mat,3,1486,0.1,445.8,4012.2,2440.76,1571.44,Net Banking
+242,2025-10-04 00:00:00,Davanagere,Wholesale,Stationery,File Folder,6,660,0,0,3960,2505.51,1454.49,Net Banking
+243,2025-07-14 00:00:00,Mysuru,Retail,Electronics,Headphones,4,1414,0.1,565.6,5090.4,2816.64,2273.76,Cash
+244,2025-06-16 00:00:00,Mysuru,Retail,Stationery,Notebook,2,470,0.05,47,893,719.4,173.6,Cash
+245,2025-05-06 00:00:00,Hubballi,Wholesale,Stationery,File Folder,3,625,0,0,1875,1457.37,417.63,UPI
+246,2025-12-31 00:00:00,Mysuru,Wholesale,Electronics,Wireless Mouse,2,1749,0.15,524.7,2973.3,1943.75,1029.55,Cash
+247,2025-08-22 00:00:00,Davanagere,Retail,Fitness,Dumbbells,3,1160,0,0,3480,2036.19,1443.81,UPI
+248,2025-02-04 00:00:00,Hubballi,Retail,Fitness,Gym Gloves,7,618,0,0,4326,3088.14,1237.86,UPI
+249,2025-03-10 00:00:00,Mysuru,Wholesale,Fitness,Resistance Band,5,2127,0,0,10635,8257.1,2377.9,Cash
+250,2025-09-07 00:00:00,Hubballi,Online,Electronics,Headphones,1,690,0,0,690,534.26,155.74,UPI
+251,2025-04-21 00:00:00,Bengaluru,Wholesale,Stationery,Desk Organizer,2,558,0.05,55.8,1060.2,669.13,391.07,Card
+252,2025-01-08 00:00:00,Mangaluru,Wholesale,Electronics,Power Bank,4,1006,0,0,4024,3260.6,763.4,Card
+253,2025-09-03 00:00:00,Davanagere,Wholesale,Home,Bedsheet,5,625,0.05,156.25,2968.75,2006.97,961.78,UPI
+254,2025-10-31 00:00:00,Mysuru,Retail,Fitness,Skipping Rope,4,1272,0,0,5088,3473.49,1614.51,Cash
+255,2025-07-22 00:00:00,Hubballi,Online,Fitness,Dumbbells,1,853,0.1,85.3,767.7,580.71,186.99,UPI
+256,2025-11-24 00:00:00,Mangaluru,Online,Home,Table Lamp,4,886,0.1,354.4,3189.6,2140.37,1049.23,Cash
+257,2025-01-22 00:00:00,Hubballi,Wholesale,Electronics,Keyboard,5,2099,0,0,10495,6620.63,3874.37,UPI
+258,2025-08-10 00:00:00,Mysuru,Retail,Electronics,Wireless Mouse,7,368,0.1,257.6,2318.4,1459.54,858.86,Net Banking
+259,2025-02-06 00:00:00,Mysuru,Wholesale,Fitness,Yoga Mat,5,1401,0.1,700.5,6304.5,4972.96,1331.54,Card
+260,2025-10-17 00:00:00,Mangaluru,Retail,Electronics,Wireless Mouse,6,763,0,0,4578,3299.2,1278.8,Net Banking
+261,2025-03-24 00:00:00,Hubballi,Wholesale,Electronics,Power Bank,3,707,0,0,2121,1648.78,472.22,Net Banking
+262,2025-01-13 00:00:00,Mysuru,Wholesale,Electronics,Keyboard,7,2300,0,0,16100,10126.56,5973.44,UPI
+263,2025-08-21 00:00:00,Bengaluru,Online,Stationery,Notebook,6,582,0,0,3492,2531.39,960.61,Card
+264,2025-01-10 00:00:00,Hubballi,Wholesale,Fitness,Skipping Rope,4,909,0.05,181.8,3454.2,2125.44,1328.76,Net Banking
+265,2025-07-24 00:00:00,Davanagere,Wholesale,Home,Bedsheet,3,925,0,0,2775,1739.24,1035.76,Card
+266,2025-02-18 00:00:00,Bengaluru,Online,Electronics,USB Cable,7,1814,0.05,634.9,12063.1,8963.61,3099.49,Net Banking
+267,2025-11-21 00:00:00,Davanagere,Wholesale,Fitness,Yoga Mat,4,826,0,0,3304,2321.21,982.79,Card
+268,2025-06-26 00:00:00,Bengaluru,Online,Fitness,Dumbbells,6,650,0.05,195,3705,2531.74,1173.26,UPI
+269,2025-06-24 00:00:00,Hubballi,Online,Stationery,Pen Set,7,150,0,0,1050,614.24,435.76,UPI
+270,2025-12-06 00:00:00,Bengaluru,Online,Electronics,Power Bank,3,2096,0.15,943.2,5344.8,3661.77,1683.03,Card
+271,2025-08-24 00:00:00,Davanagere,Retail,Electronics,Headphones,1,1241,0.05,62.05,1178.95,780.78,398.17,UPI
+272,2025-04-10 00:00:00,Davanagere,Online,Fitness,Yoga Mat,5,2178,0,0,10890,7905.52,2984.48,Net Banking
+273,2025-05-29 00:00:00,Mangaluru,Retail,Fitness,Resistance Band,4,605,0,0,2420,1359.1,1060.9,UPI
+274,2025-02-22 00:00:00,Bengaluru,Wholesale,Electronics,Keyboard,4,2450,0,0,9800,6282.62,3517.38,Cash
+275,2025-04-21 00:00:00,Hubballi,Wholesale,Electronics,Headphones,6,2414,0,0,14484,11734.14,2749.86,Cash
+276,2025-09-29 00:00:00,Mangaluru,Retail,Fitness,Resistance Band,7,2007,0,0,14049,8416.33,5632.67,UPI
+277,2025-11-09 00:00:00,Mysuru,Retail,Stationery,File Folder,6,604,0.05,181.2,3442.8,2799.11,643.69,Net Banking
+278,2025-08-05 00:00:00,Davanagere,Retail,Fitness,Yoga Mat,5,444,0.05,111,2109,1693.72,415.28,Card
+279,2025-08-06 00:00:00,Davanagere,Online,Electronics,USB Cable,4,1975,0.05,395,7505,6136.53,1368.47,Card
+280,2025-01-17 00:00:00,Mysuru,Retail,Stationery,Notebook,3,248,0.1,74.4,669.6,521.45,148.15,Card
+281,2025-12-26 00:00:00,Hubballi,Retail,Electronics,Power Bank,4,1356,0.1,542.4,4881.6,3933.58,948.02,Card
+282,2025-10-09 00:00:00,Mysuru,Wholesale,Electronics,Keyboard,1,2402,0,0,2402,1590.66,811.34,Card
+283,2025-10-04 00:00:00,Mangaluru,Online,Home,Storage Box,6,1396,0.1,837.6,7538.4,5125.81,2412.59,Net Banking
+284,2025-11-29 00:00:00,Hubballi,Online,Fitness,Dumbbells,2,1855,0,0,3710,2678.12,1031.88,Cash
+285,2025-05-19 00:00:00,Hubballi,Online,Home,Bedsheet,5,423,0,0,2115,1170.69,944.31,UPI
+286,2025-09-30 00:00:00,Hubballi,Online,Fitness,Skipping Rope,3,1179,0.05,176.85,3360.15,1994.76,1365.39,Cash
+287,2025-07-06 00:00:00,Mangaluru,Wholesale,Stationery,Notebook,4,135,0,0,540,298.32,241.68,Card
+288,2025-09-09 00:00:00,Mangaluru,Retail,Stationery,Pen Set,2,662,0,0,1324,900.11,423.89,Cash
+289,2025-02-03 00:00:00,Mysuru,Online,Fitness,Dumbbells,3,2026,0.05,303.9,5774.1,3317.19,2456.91,UPI
+290,2025-07-25 00:00:00,Hubballi,Retail,Home,Storage Box,1,834,0.05,41.7,792.3,512.47,279.83,Cash
+291,2025-12-31 00:00:00,Davanagere,Retail,Fitness,Skipping Rope,4,354,0,0,1416,1144.42,271.58,UPI
+292,2025-09-13 00:00:00,Hubballi,Online,Fitness,Gym Gloves,3,837,0.05,125.55,2385.45,1493.95,891.5,Card
+293,2025-02-09 00:00:00,Hubballi,Retail,Fitness,Skipping Rope,5,1040,0,0,5200,3558.55,1641.45,UPI
+294,2025-04-22 00:00:00,Mysuru,Retail,Electronics,Headphones,7,1931,0,0,13517,8511.86,5005.14,UPI
+295,2025-02-09 00:00:00,Mangaluru,Online,Home,Water Bottle,7,1709,0,0,11963,9408.76,2554.24,UPI
+296,2025-11-14 00:00:00,Mangaluru,Retail,Electronics,Power Bank,1,1174,0,0,1174,954.15,219.85,Net Banking
+297,2025-12-08 00:00:00,Mangaluru,Online,Electronics,Headphones,7,2337,0.05,817.95,15541.05,10292.91,5248.14,Cash
+298,2025-01-25 00:00:00,Mangaluru,Wholesale,Home,Wall Clock,3,1358,0.1,407.4,3666.6,2815.24,851.36,UPI
+299,2025-10-14 00:00:00,Davanagere,Wholesale,Electronics,Headphones,2,2429,0,0,4858,3024.54,1833.46,UPI
+300,2025-04-21 00:00:00,Hubballi,Retail,Home,Bedsheet,1,1066,0,0,1066,732.77,333.23,UPI
+301,2025-04-14 00:00:00,Bengaluru,Retail,Home,Storage Box,7,1371,0.05,479.85,9117.15,6808.91,2308.24,Cash
+302,2025-03-14 00:00:00,Bengaluru,Online,Fitness,Gym Gloves,5,1581,0,0,7905,4601.47,3303.53,UPI
+303,2025-12-03 00:00:00,Mysuru,Online,Fitness,Yoga Mat,3,1113,0.05,166.95,3172.05,2073.81,1098.24,Net Banking
+304,2025-10-16 00:00:00,Bengaluru,Online,Electronics,Keyboard,6,1023,0.1,613.8,5524.2,3853.33,1670.87,UPI
+305,2025-12-02 00:00:00,Mysuru,Online,Home,Water Bottle,6,674,0.05,202.2,3841.8,3100.97,740.83,Cash
+306,2025-05-31 00:00:00,Mysuru,Online,Fitness,Resistance Band,2,1479,0.05,147.9,2810.1,1979.35,830.75,Cash
+307,2025-04-23 00:00:00,Hubballi,Wholesale,Electronics,USB Cable,4,2274,0.1,909.6,8186.4,5454.16,2732.24,UPI
+308,2025-02-02 00:00:00,Hubballi,Retail,Electronics,Headphones,6,399,0,0,2394,1353.28,1040.72,UPI
+309,2025-05-08 00:00:00,Bengaluru,Wholesale,Fitness,Dumbbells,6,2065,0,0,12390,8259.73,4130.27,Cash
+310,2025-11-18 00:00:00,Bengaluru,Retail,Home,Table Lamp,6,1585,0.05,475.5,9034.5,6687.61,2346.89,Card
+311,2025-09-23 00:00:00,Davanagere,Online,Home,Water Bottle,2,357,0,0,714,525.68,188.32,Card
+312,2025-08-18 00:00:00,Mangaluru,Wholesale,Electronics,Power Bank,4,1299,0.05,259.8,4936.2,3579.22,1356.98,Cash
+313,2025-09-23 00:00:00,Hubballi,Wholesale,Fitness,Dumbbells,1,1599,0,0,1599,996.49,602.51,UPI
+314,2025-06-03 00:00:00,Hubballi,Wholesale,Electronics,Headphones,1,1170,0.1,117,1053,581.05,471.95,Cash
+315,2025-10-28 00:00:00,Bengaluru,Retail,Stationery,File Folder,4,186,0.1,74.4,669.6,408.14,261.46,Cash
+316,2025-11-26 00:00:00,Hubballi,Online,Electronics,Wireless Mouse,2,2168,0.05,216.8,4119.2,3282.71,836.49,Card
+317,2025-03-14 00:00:00,Mangaluru,Online,Fitness,Dumbbells,3,626,0.05,93.9,1784.1,1318.87,465.23,UPI
+318,2025-02-16 00:00:00,Mangaluru,Wholesale,Fitness,Resistance Band,7,548,0,0,3836,2174.56,1661.44,Card
+319,2025-11-27 00:00:00,Hubballi,Online,Electronics,Wireless Mouse,2,1979,0.1,395.8,3562.2,2327.85,1234.35,Card
+320,2025-12-24 00:00:00,Mysuru,Retail,Home,Water Bottle,1,752,0,0,752,455.47,296.53,Card
+321,2025-12-19 00:00:00,Mysuru,Wholesale,Electronics,USB Cable,6,998,0,0,5988,4706,1282,Cash
+322,2025-09-09 00:00:00,Mysuru,Wholesale,Home,Storage Box,3,1508,0.1,452.4,4071.6,2560.81,1510.79,UPI
+323,2025-12-29 00:00:00,Davanagere,Retail,Electronics,Power Bank,6,2485,0.05,745.5,14164.5,9357.23,4807.27,UPI
+324,2025-05-13 00:00:00,Mysuru,Retail,Fitness,Gym Gloves,1,1212,0.1,121.2,1090.8,801.72,289.08,UPI
+325,2025-10-10 00:00:00,Mangaluru,Online,Home,Bedsheet,2,426,0,0,852,669.34,182.66,Cash
+326,2025-02-05 00:00:00,Mangaluru,Retail,Fitness,Gym Gloves,6,563,0.1,337.8,3040.2,2391.44,648.76,UPI
+327,2025-02-04 00:00:00,Mysuru,Wholesale,Electronics,Power Bank,7,1011,0.05,353.85,6723.15,5218.75,1504.4,UPI
+328,2025-10-12 00:00:00,Bengaluru,Online,Electronics,Wireless Mouse,7,2050,0,0,14350,8347.95,6002.05,Net Banking
+329,2025-05-14 00:00:00,Davanagere,Online,Fitness,Gym Gloves,4,1687,0,0,6748,4013.39,2734.61,Cash
+330,2025-04-25 00:00:00,Mysuru,Wholesale,Electronics,USB Cable,4,1023,0,0,4092,2314.38,1777.62,Card
+331,2025-05-17 00:00:00,Davanagere,Online,Stationery,Marker Set,7,379,0.05,132.65,2520.35,1524.79,995.56,UPI
+332,2025-04-03 00:00:00,Davanagere,Retail,Fitness,Skipping Rope,7,494,0,0,3458,2216.74,1241.26,Card
+333,2025-11-01 00:00:00,Mysuru,Retail,Electronics,Keyboard,3,1380,0.05,207,3933,2812.33,1120.67,Card
+334,2025-04-27 00:00:00,Bengaluru,Retail,Home,Wall Clock,3,1317,0.05,197.55,3753.45,2607.25,1146.2,UPI
+335,2025-12-30 00:00:00,Mysuru,Online,Fitness,Yoga Mat,3,588,0.1,176.4,1587.6,1046.6,541,UPI
+336,2025-08-20 00:00:00,Bengaluru,Online,Home,Table Lamp,2,709,0,0,1418,963.39,454.61,Net Banking
+337,2025-06-22 00:00:00,Mysuru,Online,Home,Table Lamp,2,370,0,0,740,450.98,289.02,Cash
+338,2025-11-27 00:00:00,Hubballi,Online,Home,Bedsheet,2,1587,0.05,158.7,3015.3,2052.45,962.85,Net Banking
+339,2025-05-16 00:00:00,Hubballi,Retail,Electronics,Wireless Mouse,1,599,0,0,599,439.02,159.98,Card
+340,2025-01-29 00:00:00,Bengaluru,Online,Stationery,File Folder,3,314,0.1,94.2,847.8,637.96,209.84,Card
+341,2025-10-19 00:00:00,Mysuru,Wholesale,Stationery,Pen Set,2,623,0,0,1246,824.9,421.1,Net Banking
+342,2025-11-09 00:00:00,Bengaluru,Wholesale,Electronics,Headphones,5,1304,0.1,652,5868,4030.77,1837.23,Cash
+343,2025-12-12 00:00:00,Mysuru,Wholesale,Electronics,Headphones,7,1007,0,0,7049,4891.85,2157.15,Card
+344,2025-06-22 00:00:00,Hubballi,Wholesale,Stationery,Notebook,4,635,0.05,127,2413,1862.46,550.54,UPI
+345,2025-01-28 00:00:00,Davanagere,Wholesale,Stationery,Notebook,1,454,0,0,454,318.02,135.98,UPI
+346,2025-08-20 00:00:00,Bengaluru,Wholesale,Fitness,Dumbbells,7,479,0,0,3353,2521.33,831.67,UPI
+347,2025-10-03 00:00:00,Mysuru,Online,Electronics,Headphones,4,648,0.05,129.6,2462.4,1358.12,1104.28,Card
+348,2025-09-26 00:00:00,Mangaluru,Online,Electronics,Power Bank,1,1361,0.05,68.05,1292.95,820.31,472.64,Cash
+349,2025-12-22 00:00:00,Davanagere,Online,Electronics,Keyboard,7,1608,0.05,562.8,10693.2,8377.02,2316.18,UPI
+350,2025-01-19 00:00:00,Davanagere,Online,Electronics,Power Bank,3,2471,0.05,370.65,7042.35,5638.17,1404.18,Net Banking
+351,2025-02-20 00:00:00,Mysuru,Retail,Home,Water Bottle,5,1286,0.1,643,5787,3970.35,1816.65,Cash
+352,2025-03-16 00:00:00,Davanagere,Wholesale,Home,Storage Box,5,1516,0.05,379,7201,5221.68,1979.32,Card
+353,2025-07-12 00:00:00,Bengaluru,Online,Stationery,File Folder,7,142,0,0,994,551.84,442.16,Card
+354,2025-10-23 00:00:00,Mangaluru,Retail,Stationery,File Folder,6,215,0.05,64.5,1225.5,989.54,235.96,Cash
+355,2025-10-19 00:00:00,Bengaluru,Online,Stationery,Pen Set,6,199,0,0,1194,793.17,400.83,Net Banking
+356,2025-01-07 00:00:00,Bengaluru,Online,Stationery,Marker Set,5,204,0.1,102,918,724.15,193.85,Card
+357,2025-08-27 00:00:00,Hubballi,Retail,Electronics,Keyboard,7,1580,0,0,11060,7383.17,3676.83,UPI
+358,2025-01-11 00:00:00,Davanagere,Online,Fitness,Gym Gloves,2,819,0,0,1638,1108.37,529.63,UPI
+359,2025-05-06 00:00:00,Mangaluru,Wholesale,Home,Wall Clock,1,733,0,0,733,561.14,171.86,Net Banking
+360,2025-02-18 00:00:00,Davanagere,Wholesale,Electronics,USB Cable,4,986,0,0,3944,3125.72,818.28,Card
+361,2025-01-31 00:00:00,Mysuru,Wholesale,Fitness,Skipping Rope,7,1463,0,0,10241,7238.22,3002.78,Card
+362,2025-11-09 00:00:00,Bengaluru,Online,Electronics,Keyboard,7,575,0,0,4025,3291.56,733.44,Cash
+363,2025-12-03 00:00:00,Bengaluru,Online,Home,Wall Clock,1,809,0,0,809,547.8,261.2,Net Banking
+364,2025-11-23 00:00:00,Bengaluru,Wholesale,Home,Water Bottle,1,197,0,0,197,132.5,64.5,Net Banking
+365,2025-08-17 00:00:00,Hubballi,Online,Electronics,Wireless Mouse,6,1328,0.1,796.8,7171.2,4724.02,2447.18,Net Banking
+366,2025-07-10 00:00:00,Mangaluru,Wholesale,Home,Water Bottle,6,202,0,0,1212,799.64,412.36,Net Banking
+367,2025-01-06 00:00:00,Mangaluru,Online,Stationery,Notebook,6,436,0,0,2616,1832.07,783.93,UPI
+368,2025-05-07 00:00:00,Mangaluru,Online,Electronics,Wireless Mouse,1,1115,0.05,55.75,1059.25,797.57,261.68,Cash
+369,2025-07-24 00:00:00,Davanagere,Wholesale,Fitness,Resistance Band,1,2170,0,0,2170,1248.44,921.56,Card
+370,2025-04-21 00:00:00,Davanagere,Wholesale,Electronics,Headphones,3,1130,0.05,169.5,3220.5,1905.61,1314.89,Cash
+371,2025-04-06 00:00:00,Mangaluru,Online,Home,Wall Clock,2,387,0,0,774,432.07,341.93,UPI
+372,2025-05-23 00:00:00,Bengaluru,Wholesale,Home,Bedsheet,1,620,0,0,620,483.79,136.21,Card
+373,2025-11-27 00:00:00,Mysuru,Wholesale,Electronics,Headphones,2,1638,0,0,3276,2339.87,936.13,Net Banking
+374,2025-07-09 00:00:00,Mangaluru,Online,Home,Storage Box,3,764,0,0,2292,1679.8,612.2,Net Banking
+375,2025-04-12 00:00:00,Mysuru,Online,Home,Storage Box,5,341,0,0,1705,1067.94,637.06,Net Banking
+376,2025-03-04 00:00:00,Davanagere,Wholesale,Electronics,Headphones,3,1220,0.05,183,3477,2210.46,1266.54,Card
+377,2025-03-09 00:00:00,Hubballi,Wholesale,Stationery,File Folder,6,357,0.05,107.1,2034.9,1507.22,527.68,Card
+378,2025-08-26 00:00:00,Davanagere,Wholesale,Home,Water Bottle,3,1046,0.1,313.8,2824.2,2266.65,557.55,Net Banking
+379,2025-10-14 00:00:00,Bengaluru,Wholesale,Electronics,USB Cable,7,886,0,0,6202,3511.73,2690.27,Net Banking
+380,2025-07-30 00:00:00,Hubballi,Retail,Fitness,Skipping Rope,3,1556,0,0,4668,2576.07,2091.93,UPI
+381,2025-12-17 00:00:00,Bengaluru,Wholesale,Electronics,Keyboard,2,489,0,0,978,566.17,411.83,Cash
+382,2025-12-06 00:00:00,Davanagere,Wholesale,Fitness,Gym Gloves,1,1754,0,0,1754,1287.75,466.25,Cash
+383,2025-10-04 00:00:00,Davanagere,Retail,Stationery,Notebook,1,161,0.05,8.05,152.95,111.32,41.63,Net Banking
+384,2025-02-09 00:00:00,Mangaluru,Retail,Fitness,Dumbbells,2,452,0.1,90.4,813.6,470.43,343.17,Card
+385,2025-08-25 00:00:00,Mysuru,Online,Home,Water Bottle,6,1744,0.05,523.2,9940.8,7123.33,2817.47,Cash
+386,2025-08-08 00:00:00,Davanagere,Online,Fitness,Gym Gloves,2,2008,0.05,200.8,3815.2,2345.66,1469.54,Card
+387,2025-10-05 00:00:00,Mysuru,Retail,Electronics,USB Cable,5,1110,0.1,555,4995,3752.24,1242.76,Net Banking
+388,2025-01-17 00:00:00,Mysuru,Wholesale,Home,Table Lamp,6,806,0,0,4836,3851.78,984.22,Cash
+389,2025-05-23 00:00:00,Davanagere,Retail,Home,Wall Clock,6,564,0.1,338.4,3045.6,1772.64,1272.96,Card
+390,2025-10-30 00:00:00,Hubballi,Retail,Home,Storage Box,5,1705,0.05,426.25,8098.75,5808.38,2290.37,UPI
+391,2025-02-13 00:00:00,Mysuru,Online,Stationery,Desk Organizer,7,540,0.05,189,3591,2049.52,1541.48,Net Banking
+392,2025-12-26 00:00:00,Mangaluru,Wholesale,Fitness,Resistance Band,5,1323,0,0,6615,4272.12,2342.88,Cash
+393,2025-08-27 00:00:00,Mangaluru,Wholesale,Home,Wall Clock,6,336,0,0,2016,1200.36,815.64,Card
+394,2025-06-08 00:00:00,Mangaluru,Retail,Electronics,Headphones,1,1930,0,0,1930,1259.32,670.68,Net Banking
+395,2025-08-18 00:00:00,Mangaluru,Wholesale,Home,Storage Box,2,882,0,0,1764,1395.8,368.2,Cash
+396,2025-04-18 00:00:00,Bengaluru,Retail,Fitness,Gym Gloves,4,1419,0,0,5676,3960.81,1715.19,Cash
+397,2025-11-19 00:00:00,Mysuru,Retail,Stationery,Marker Set,2,145,0,0,290,177.81,112.19,Net Banking
+398,2025-01-22 00:00:00,Bengaluru,Wholesale,Stationery,Marker Set,1,564,0.05,28.2,535.8,390.1,145.7,UPI
+399,2025-10-06 00:00:00,Bengaluru,Wholesale,Home,Table Lamp,2,274,0,0,548,382.25,165.75,UPI
+400,2025-03-15 00:00:00,Mysuru,Wholesale,Stationery,Notebook,6,363,0,0,2178,1207.66,970.34,Cash
+401,2025-03-26 00:00:00,Hubballi,Retail,Electronics,Headphones,5,1034,0,0,5170,4055.71,1114.29,Cash
+402,2025-11-27 00:00:00,Bengaluru,Online,Fitness,Dumbbells,1,1262,0.05,63.1,1198.9,965.86,233.04,Card
+403,2025-03-17 00:00:00,Hubballi,Retail,Electronics,Keyboard,4,1706,0,0,6824,5060.33,1763.67,Cash
+404,2025-10-19 00:00:00,Davanagere,Online,Electronics,Power Bank,5,869,0.05,217.25,4127.75,2590.49,1537.26,UPI
+405,2025-10-20 00:00:00,Mangaluru,Online,Fitness,Gym Gloves,5,1709,0,0,8545,6019.43,2525.57,Card
+406,2025-10-08 00:00:00,Mangaluru,Online,Electronics,USB Cable,6,1180,0,0,7080,5475.57,1604.43,Card
+407,2025-11-14 00:00:00,Hubballi,Online,Fitness,Dumbbells,6,1181,0,0,7086,4109.93,2976.07,Card
+408,2025-10-15 00:00:00,Mangaluru,Wholesale,Fitness,Yoga Mat,4,1860,0,0,7440,5440.45,1999.55,UPI
+409,2025-04-05 00:00:00,Mangaluru,Retail,Fitness,Skipping Rope,7,727,0,0,5089,3845.52,1243.48,Card
+410,2025-10-15 00:00:00,Mangaluru,Online,Electronics,Power Bank,2,536,0,0,1072,752.91,319.09,Card
+411,2025-12-07 00:00:00,Bengaluru,Online,Electronics,Headphones,4,1783,0.1,713.2,6418.8,5249.49,1169.31,Net Banking
+412,2025-04-16 00:00:00,Mysuru,Online,Fitness,Skipping Rope,4,1569,0,0,6276,5085.02,1190.98,Cash
+413,2025-11-01 00:00:00,Bengaluru,Retail,Fitness,Skipping Rope,2,1654,0,0,3308,2661.71,646.29,Net Banking
+414,2025-10-30 00:00:00,Bengaluru,Wholesale,Stationery,Pen Set,5,583,0.1,291.5,2623.5,1474.8,1148.7,Net Banking
+415,2025-01-12 00:00:00,Hubballi,Wholesale,Home,Storage Box,1,350,0.1,35,315,244.86,70.14,UPI
+416,2025-06-08 00:00:00,Mangaluru,Online,Stationery,File Folder,1,334,0.1,33.4,300.6,212.15,88.45,Net Banking
+417,2025-05-26 00:00:00,Mangaluru,Wholesale,Home,Wall Clock,6,1301,0,0,7806,6088.14,1717.86,Cash
+418,2025-12-22 00:00:00,Mangaluru,Online,Fitness,Gym Gloves,1,397,0.1,39.7,357.3,225.05,132.25,Net Banking
+419,2025-05-29 00:00:00,Mangaluru,Online,Electronics,USB Cable,3,1835,0.1,550.5,4954.5,3844.99,1109.51,Cash
+420,2025-06-18 00:00:00,Mysuru,Wholesale,Electronics,USB Cable,6,905,0,0,5430,4055.2,1374.8,Card
+421,2025-10-14 00:00:00,Mangaluru,Online,Fitness,Gym Gloves,3,1383,0,0,4149,2887.21,1261.79,Net Banking
+422,2025-10-12 00:00:00,Mysuru,Retail,Stationery,Notebook,6,656,0.05,196.8,3739.2,3054.87,684.33,Net Banking
+423,2025-12-09 00:00:00,Hubballi,Wholesale,Electronics,USB Cable,3,2308,0,0,6924,3931.23,2992.77,Card
+424,2025-04-21 00:00:00,Mysuru,Online,Fitness,Skipping Rope,1,257,0,0,257,150.59,106.41,UPI
+425,2025-07-31 00:00:00,Mangaluru,Retail,Stationery,File Folder,5,292,0.05,73,1387,994.72,392.28,Net Banking
+426,2025-02-21 00:00:00,Davanagere,Online,Fitness,Resistance Band,7,460,0,0,3220,2250.08,969.92,Cash
+427,2025-05-17 00:00:00,Mysuru,Wholesale,Electronics,Power Bank,4,560,0.05,112,2128,1483.16,644.84,Cash
+428,2025-10-02 00:00:00,Mysuru,Wholesale,Fitness,Skipping Rope,6,1493,0.1,895.8,8062.2,6197.25,1864.95,Card
+429,2025-12-25 00:00:00,Bengaluru,Retail,Home,Water Bottle,5,801,0,0,4005,2994.72,1010.28,UPI
+430,2025-04-26 00:00:00,Hubballi,Wholesale,Fitness,Yoga Mat,6,554,0.05,166.2,3157.8,1998.74,1159.06,UPI
+431,2025-01-28 00:00:00,Mysuru,Wholesale,Electronics,Keyboard,3,662,0,0,1986,1363.59,622.41,Net Banking
+432,2025-04-03 00:00:00,Mangaluru,Wholesale,Fitness,Resistance Band,5,1196,0,0,5980,4280.33,1699.67,Net Banking
+433,2025-01-07 00:00:00,Mangaluru,Wholesale,Home,Table Lamp,6,1158,0,0,6948,4950.37,1997.63,Cash
+434,2025-01-01 00:00:00,Hubballi,Retail,Fitness,Yoga Mat,4,1162,0.05,232.4,4415.6,3260.98,1154.62,Card
+435,2025-07-08 00:00:00,Davanagere,Retail,Stationery,Notebook,3,684,0.05,102.6,1949.4,1550.09,399.31,Net Banking
+436,2025-07-06 00:00:00,Bengaluru,Wholesale,Stationery,Marker Set,7,600,0,0,4200,2842.88,1357.12,Cash
+437,2025-04-18 00:00:00,Davanagere,Wholesale,Home,Storage Box,4,1703,0,0,6812,4994.51,1817.49,Card
+438,2025-07-19 00:00:00,Bengaluru,Wholesale,Home,Bedsheet,6,1274,0.1,764.4,6879.6,5032.48,1847.12,UPI
+439,2025-09-03 00:00:00,Hubballi,Online,Fitness,Dumbbells,5,996,0,0,4980,3330.43,1649.57,UPI
+440,2025-09-16 00:00:00,Davanagere,Online,Electronics,Keyboard,7,2056,0,0,14392,8103.53,6288.47,Net Banking
+441,2025-04-08 00:00:00,Bengaluru,Retail,Electronics,USB Cable,5,2357,0.1,1178.5,10606.5,7168.42,3438.08,Card
+442,2025-08-12 00:00:00,Mangaluru,Wholesale,Electronics,USB Cable,4,528,0,0,2112,1195.58,916.42,UPI
+443,2025-09-08 00:00:00,Mangaluru,Online,Home,Storage Box,7,1074,0,0,7518,5641.65,1876.35,Card
+444,2025-12-15 00:00:00,Mysuru,Retail,Electronics,Power Bank,3,1253,0,0,3759,2074.89,1684.11,Net Banking
+445,2025-07-14 00:00:00,Bengaluru,Retail,Stationery,Desk Organizer,1,64,0,0,64,38.4,25.6,Net Banking
+446,2025-07-27 00:00:00,Davanagere,Wholesale,Electronics,Headphones,6,2085,0,0,12510,7309.28,5200.72,Net Banking
+447,2025-10-06 00:00:00,Hubballi,Wholesale,Stationery,File Folder,3,476,0,0,1428,932.74,495.26,Card
+448,2025-04-02 00:00:00,Bengaluru,Wholesale,Electronics,Wireless Mouse,3,1429,0,0,4287,2385.64,1901.36,UPI
+449,2025-01-06 00:00:00,Davanagere,Online,Electronics,Headphones,7,497,0.05,173.95,3305.05,2305.84,999.21,Card
+450,2025-04-24 00:00:00,Mangaluru,Retail,Fitness,Gym Gloves,7,284,0,0,1988,1462.31,525.69,UPI
+451,2025-12-04 00:00:00,Bengaluru,Retail,Home,Water Bottle,4,848,0,0,3392,1927.85,1464.15,Cash
+452,2025-06-17 00:00:00,Hubballi,Retail,Fitness,Dumbbells,6,911,0,0,5466,4003.15,1462.85,Cash
+453,2025-10-09 00:00:00,Mysuru,Online,Electronics,Power Bank,5,2294,0,0,11470,8381,3089,Card
+454,2025-05-26 00:00:00,Mysuru,Online,Stationery,Desk Organizer,7,664,0,0,4648,2838.27,1809.73,Net Banking
+455,2025-12-06 00:00:00,Mangaluru,Retail,Electronics,Keyboard,3,1720,0,0,5160,3110.73,2049.27,UPI
+456,2025-09-03 00:00:00,Bengaluru,Wholesale,Electronics,Power Bank,5,1977,0,0,9885,6288.27,3596.73,Card
+457,2025-03-16 00:00:00,Davanagere,Retail,Electronics,Power Bank,6,1541,0,0,9246,5313.53,3932.47,Net Banking
+458,2025-02-04 00:00:00,Davanagere,Retail,Home,Wall Clock,6,302,0,0,1812,1284.32,527.68,Card
+459,2025-01-16 00:00:00,Hubballi,Online,Fitness,Yoga Mat,6,1315,0,0,7890,4912.12,2977.88,Cash
+460,2025-02-14 00:00:00,Bengaluru,Wholesale,Home,Wall Clock,6,1243,0,0,7458,4447.91,3010.09,Net Banking
+461,2025-11-25 00:00:00,Hubballi,Retail,Electronics,Power Bank,7,2412,0.05,844.2,16039.8,12280.67,3759.13,Net Banking
+462,2025-11-04 00:00:00,Mangaluru,Wholesale,Home,Table Lamp,5,228,0.1,114,1026,569.55,456.45,UPI
+463,2025-07-10 00:00:00,Mangaluru,Retail,Electronics,Headphones,6,870,0,0,5220,3065.67,2154.33,Net Banking
+464,2025-03-14 00:00:00,Mangaluru,Online,Home,Bedsheet,4,1303,0.05,260.6,4951.4,3797.79,1153.61,UPI
+465,2025-07-16 00:00:00,Davanagere,Retail,Home,Water Bottle,7,238,0,0,1666,975.1,690.9,UPI
+466,2025-04-16 00:00:00,Mangaluru,Online,Home,Bedsheet,7,847,0,0,5929,3762.44,2166.56,Cash
+467,2025-11-14 00:00:00,Hubballi,Online,Home,Water Bottle,1,1665,0,0,1665,1211.43,453.57,Cash
+468,2025-05-24 00:00:00,Davanagere,Retail,Home,Table Lamp,7,381,0,0,2667,2049.28,617.72,Card
+469,2025-01-10 00:00:00,Bengaluru,Wholesale,Fitness,Dumbbells,2,383,0.05,38.3,727.7,465.39,262.31,Net Banking
+470,2025-10-11 00:00:00,Mysuru,Online,Electronics,Headphones,3,1448,0,0,4344,2488.02,1855.98,Net Banking
+471,2025-11-23 00:00:00,Mysuru,Online,Electronics,Headphones,1,1994,0.05,99.7,1894.3,1170.91,723.39,Cash
+472,2025-01-01 00:00:00,Mangaluru,Retail,Home,Water Bottle,3,1403,0,0,4209,3265.51,943.49,Cash
+473,2025-07-06 00:00:00,Hubballi,Wholesale,Home,Wall Clock,7,1733,0.05,606.55,11524.45,6666.41,4858.04,Card
+474,2025-04-05 00:00:00,Mysuru,Online,Stationery,Desk Organizer,1,99,0.1,9.9,89.1,50.14,38.96,Cash
+475,2025-07-09 00:00:00,Hubballi,Retail,Stationery,Marker Set,7,537,0.05,187.95,3571.05,2923.9,647.15,UPI
+476,2025-11-30 00:00:00,Mysuru,Wholesale,Fitness,Resistance Band,1,1977,0,0,1977,1161.21,815.79,Cash
+477,2025-02-25 00:00:00,Davanagere,Wholesale,Electronics,Wireless Mouse,6,689,0.1,413.4,3720.6,2945.47,775.13,Net Banking
+478,2025-12-02 00:00:00,Bengaluru,Retail,Home,Table Lamp,2,1305,0.05,130.5,2479.5,1572.31,907.19,UPI
+479,2025-04-15 00:00:00,Davanagere,Online,Fitness,Dumbbells,5,1970,0,0,9850,6890.39,2959.61,UPI
+480,2025-01-18 00:00:00,Mysuru,Online,Electronics,Wireless Mouse,7,1244,0,0,8708,5358.79,3349.21,Card
+481,2025-04-16 00:00:00,Bengaluru,Retail,Stationery,File Folder,1,367,0,0,367,276.19,90.81,Net Banking
+482,2025-04-23 00:00:00,Mysuru,Wholesale,Fitness,Gym Gloves,5,675,0.1,337.5,3037.5,2304.73,732.77,Cash
+483,2025-11-19 00:00:00,Bengaluru,Wholesale,Home,Bedsheet,7,1791,0,0,12537,8717.81,3819.19,Card
+484,2025-11-30 00:00:00,Hubballi,Online,Electronics,Keyboard,1,2136,0,0,2136,1185.34,950.66,Cash
+485,2025-01-24 00:00:00,Hubballi,Wholesale,Fitness,Yoga Mat,7,823,0,0,5761,4530.99,1230.01,UPI
+486,2025-04-08 00:00:00,Bengaluru,Online,Stationery,Pen Set,1,161,0,0,161,101.51,59.49,Cash
+487,2025-02-25 00:00:00,Mysuru,Retail,Fitness,Dumbbells,7,959,0,0,6713,5423.91,1289.09,UPI
+488,2025-03-02 00:00:00,Bengaluru,Online,Electronics,Headphones,6,2053,0.1,1231.8,11086.2,8818.9,2267.3,Card
+489,2025-11-23 00:00:00,Mysuru,Wholesale,Fitness,Gym Gloves,4,1479,0,0,5916,3509.18,2406.82,Cash
+490,2025-05-20 00:00:00,Mysuru,Wholesale,Electronics,Wireless Mouse,6,1523,0,0,9138,6375.6,2762.4,Cash
+491,2025-12-01 00:00:00,Mysuru,Retail,Home,Storage Box,4,943,0.05,188.6,3583.4,2796.09,787.31,UPI
+492,2025-04-07 00:00:00,Davanagere,Retail,Electronics,Keyboard,7,1155,0.05,404.25,7680.75,4622.62,3058.13,UPI
+493,2025-11-10 00:00:00,Davanagere,Online,Home,Water Bottle,7,766,0,0,5362,3869.35,1492.65,Cash
+494,2025-05-06 00:00:00,Mysuru,Retail,Stationery,File Folder,4,105,0.05,21,399,258.5,140.5,Net Banking
+495,2025-05-10 00:00:00,Davanagere,Retail,Home,Storage Box,7,1444,0,0,10108,5756.66,4351.34,Card
+496,2025-06-25 00:00:00,Mangaluru,Retail,Electronics,Power Bank,3,390,0,0,1170,815.34,354.66,Cash
+497,2025-11-14 00:00:00,Mangaluru,Wholesale,Home,Bedsheet,1,266,0,0,266,199.56,66.44,Card
+498,2025-12-31 00:00:00,Bengaluru,Retail,Electronics,Keyboard,1,1927,0,0,1927,1253.44,673.56,Card
+499,2025-02-16 00:00:00,Davanagere,Wholesale,Electronics,Headphones,3,504,0,0,1512,1030.57,481.43,Cash
+500,2025-06-30 00:00:00,Mysuru,Retail,Fitness,Skipping Rope,3,837,0.1,251.1,2259.9,1451.53,808.37,Card
+501,2025-12-22 00:00:00,Bengaluru,Retail,Fitness,Resistance Band,5,1117,0.1,558.5,5026.5,3911.42,1115.08,UPI
+502,2025-07-19 00:00:00,Mysuru,Wholesale,Home,Storage Box,5,1009,0,0,5045,3676.09,1368.91,Cash
+503,2025-01-26 00:00:00,Mysuru,Wholesale,Stationery,Notebook,1,624,0.15,93.6,530.4,394.13,136.27,Cash
+504,2025-05-20 00:00:00,Mangaluru,Wholesale,Fitness,Yoga Mat,2,2001,0.05,200.1,3801.9,2775.45,1026.45,Cash
+505,2025-10-06 00:00:00,Hubballi,Wholesale,Fitness,Gym Gloves,1,1549,0.05,77.45,1471.55,1047.84,423.71,Net Banking
+506,2025-06-11 00:00:00,Hubballi,Online,Fitness,Dumbbells,4,1465,0,0,5860,3394.12,2465.88,Cash
+507,2025-03-12 00:00:00,Mysuru,Retail,Stationery,Marker Set,3,204,0,0,612,464.96,147.04,Card
+508,2025-03-10 00:00:00,Davanagere,Retail,Electronics,Headphones,7,2066,0,0,14462,9072.71,5389.29,Net Banking
+509,2025-11-24 00:00:00,Hubballi,Wholesale,Home,Water Bottle,2,1042,0.15,312.6,1771.4,1318.27,453.13,Net Banking
+510,2025-06-18 00:00:00,Bengaluru,Wholesale,Electronics,Keyboard,2,983,0,0,1966,1282.87,683.13,UPI
+511,2025-03-22 00:00:00,Hubballi,Retail,Electronics,USB Cable,2,1215,0.05,121.5,2308.5,1658.22,650.28,Cash
+512,2025-05-04 00:00:00,Davanagere,Retail,Home,Water Bottle,5,1695,0,0,8475,6433.32,2041.68,Cash
+513,2025-12-08 00:00:00,Davanagere,Wholesale,Fitness,Skipping Rope,5,465,0,0,2325,1459.47,865.53,Cash
+514,2025-03-27 00:00:00,Mysuru,Wholesale,Electronics,USB Cable,4,2215,0,0,8860,6364.58,2495.42,Net Banking
+515,2025-02-26 00:00:00,Hubballi,Wholesale,Fitness,Gym Gloves,6,1291,0,0,7746,4482.33,3263.67,Card
+516,2025-06-29 00:00:00,Bengaluru,Retail,Electronics,Wireless Mouse,2,2119,0,0,4238,2769.02,1468.98,Cash
+517,2025-08-17 00:00:00,Hubballi,Retail,Electronics,Wireless Mouse,2,945,0,0,1890,1354.47,535.53,Cash
+518,2025-05-19 00:00:00,Davanagere,Retail,Home,Table Lamp,2,1092,0,0,2184,1701.36,482.64,Cash
+519,2025-11-06 00:00:00,Mangaluru,Online,Home,Water Bottle,1,695,0,0,695,413.14,281.86,UPI
+520,2025-07-05 00:00:00,Mangaluru,Online,Electronics,Headphones,2,1481,0.1,296.2,2665.8,1966.37,699.43,Cash
+521,2025-01-16 00:00:00,Mangaluru,Online,Fitness,Resistance Band,7,578,0,0,4046,3186.45,859.55,Cash
+522,2025-06-30 00:00:00,Mysuru,Online,Stationery,Notebook,6,411,0.1,246.6,2219.4,1676.33,543.07,Card
+523,2025-07-17 00:00:00,Mangaluru,Retail,Electronics,Power Bank,1,1249,0.1,124.9,1124.1,920.4,203.7,UPI
+524,2025-05-31 00:00:00,Davanagere,Retail,Home,Wall Clock,3,338,0.1,101.4,912.6,701.16,211.44,Net Banking
+525,2025-09-13 00:00:00,Mysuru,Retail,Home,Wall Clock,1,1694,0.1,169.4,1524.6,998.24,526.36,Cash
+526,2025-04-13 00:00:00,Mangaluru,Retail,Fitness,Gym Gloves,2,839,0,0,1678,1117.1,560.9,Card
+527,2025-09-13 00:00:00,Davanagere,Wholesale,Stationery,Desk Organizer,3,448,0,0,1344,827.11,516.89,Net Banking
+528,2025-10-08 00:00:00,Bengaluru,Online,Fitness,Resistance Band,7,822,0.1,575.4,5178.6,3884.13,1294.47,Cash
+529,2025-12-15 00:00:00,Mangaluru,Wholesale,Fitness,Resistance Band,1,1301,0,0,1301,736.08,564.92,Cash
+530,2025-09-30 00:00:00,Hubballi,Retail,Home,Storage Box,3,1343,0,0,4029,3081.49,947.51,Card
+531,2025-02-18 00:00:00,Bengaluru,Wholesale,Home,Storage Box,7,1412,0,0,9884,6809.21,3074.79,Net Banking
+532,2025-01-27 00:00:00,Bengaluru,Wholesale,Home,Wall Clock,4,627,0.05,125.4,2382.6,1363.97,1018.63,Card
+533,2025-11-07 00:00:00,Hubballi,Online,Home,Bedsheet,5,857,0,0,4285,2540.07,1744.93,Card
+534,2025-05-25 00:00:00,Hubballi,Online,Fitness,Gym Gloves,2,663,0.05,66.3,1259.7,752.58,507.12,UPI
+535,2025-04-27 00:00:00,Mangaluru,Wholesale,Electronics,Wireless Mouse,4,895,0,0,3580,2287.23,1292.77,Cash
+536,2025-05-08 00:00:00,Bengaluru,Retail,Electronics,Headphones,3,1566,0.05,234.9,4463.1,2550.16,1912.94,Cash
+537,2025-10-23 00:00:00,Bengaluru,Wholesale,Electronics,USB Cable,6,1948,0,0,11688,8832.74,2855.26,UPI
+538,2025-04-18 00:00:00,Hubballi,Wholesale,Fitness,Resistance Band,2,468,0.05,46.8,889.2,711.6,177.6,Cash
+539,2025-04-30 00:00:00,Mysuru,Wholesale,Fitness,Gym Gloves,5,268,0,0,1340,1098.36,241.64,UPI
+540,2025-06-02 00:00:00,Mysuru,Retail,Home,Water Bottle,7,1147,0,0,8029,6301.27,1727.73,UPI
+541,2025-12-03 00:00:00,Davanagere,Online,Home,Table Lamp,5,424,0,0,2120,1258.41,861.59,Net Banking
+542,2025-09-15 00:00:00,Mysuru,Online,Fitness,Dumbbells,7,1802,0,0,12614,9891.12,2722.88,UPI
+543,2025-07-16 00:00:00,Davanagere,Wholesale,Fitness,Gym Gloves,6,445,0,0,2670,1969.5,700.5,UPI
+544,2025-01-17 00:00:00,Bengaluru,Online,Stationery,Pen Set,6,328,0.1,196.8,1771.2,988,783.2,Net Banking
+545,2025-08-02 00:00:00,Mysuru,Online,Home,Wall Clock,3,1249,0,0,3747,2571.25,1175.75,Net Banking
+546,2025-12-08 00:00:00,Davanagere,Online,Stationery,File Folder,2,579,0.1,115.8,1042.2,641.91,400.29,Net Banking
+547,2025-07-20 00:00:00,Hubballi,Online,Electronics,Headphones,6,1628,0,0,9768,6290.34,3477.66,Net Banking
+548,2025-07-23 00:00:00,Hubballi,Online,Home,Bedsheet,2,1332,0.05,133.2,2530.8,1427.24,1103.56,Net Banking
+549,2025-12-17 00:00:00,Davanagere,Online,Electronics,Wireless Mouse,4,1993,0.15,1195.8,6776.2,4479.07,2297.13,Cash
+550,2025-07-15 00:00:00,Davanagere,Wholesale,Stationery,Notebook,7,528,0,0,3696,2527.81,1168.19,Cash
+551,2025-06-28 00:00:00,Mysuru,Online,Stationery,Pen Set,6,127,0.1,76.2,685.8,462.43,223.37,Cash
+552,2025-03-08 00:00:00,Bengaluru,Wholesale,Stationery,Marker Set,5,568,0,0,2840,1658.34,1181.66,Card
+553,2025-08-07 00:00:00,Hubballi,Retail,Home,Storage Box,5,685,0.1,342.5,3082.5,2043.55,1038.95,UPI
+554,2025-02-25 00:00:00,Bengaluru,Retail,Electronics,Headphones,4,822,0.05,164.4,3123.6,1728.6,1395,Card
+555,2025-09-06 00:00:00,Mysuru,Online,Stationery,Pen Set,5,397,0.1,198.5,1786.5,1196.83,589.67,Card
+556,2025-08-04 00:00:00,Hubballi,Retail,Electronics,Keyboard,5,2481,0,0,12405,9041.08,3363.92,Net Banking
+557,2025-02-09 00:00:00,Mangaluru,Wholesale,Home,Table Lamp,6,322,0,0,1932,1332.96,599.04,Cash
+558,2025-07-19 00:00:00,Davanagere,Wholesale,Stationery,Marker Set,7,119,0,0,833,604.9,228.1,Net Banking
+559,2025-02-14 00:00:00,Bengaluru,Online,Home,Table Lamp,3,899,0.1,269.7,2427.3,1838.19,589.11,Net Banking
+560,2025-02-18 00:00:00,Mangaluru,Retail,Electronics,Power Bank,4,1662,0,0,6648,4803.31,1844.69,Cash
+561,2025-03-20 00:00:00,Davanagere,Wholesale,Home,Storage Box,2,231,0,0,462,327.08,134.92,Cash
+562,2025-11-21 00:00:00,Davanagere,Retail,Stationery,Marker Set,7,350,0.05,122.5,2327.5,1327.43,1000.07,Card
+563,2025-02-16 00:00:00,Mysuru,Retail,Electronics,Keyboard,5,820,0,0,4100,2816.25,1283.75,Net Banking
+564,2025-06-28 00:00:00,Bengaluru,Wholesale,Electronics,Power Bank,7,1121,0,0,7847,6287.66,1559.34,Cash
+565,2025-01-21 00:00:00,Mysuru,Retail,Electronics,Wireless Mouse,7,1475,0,0,10325,7577.08,2747.92,Card
+566,2025-04-13 00:00:00,Davanagere,Wholesale,Electronics,USB Cable,1,630,0,0,630,408.13,221.87,Net Banking
+567,2025-03-10 00:00:00,Mangaluru,Retail,Stationery,Pen Set,1,238,0.05,11.9,226.1,143.38,82.72,Card
+568,2025-08-06 00:00:00,Mangaluru,Wholesale,Fitness,Yoga Mat,5,1503,0,0,7515,4249.1,3265.9,Card
+569,2025-05-24 00:00:00,Mysuru,Retail,Stationery,Notebook,5,96,0.15,72,408,332.69,75.31,Cash
+570,2025-07-05 00:00:00,Mangaluru,Online,Stationery,Pen Set,6,266,0,0,1596,1070.05,525.95,Cash
+571,2025-09-21 00:00:00,Davanagere,Wholesale,Fitness,Resistance Band,2,854,0,0,1708,981.53,726.47,UPI
+572,2025-03-25 00:00:00,Hubballi,Wholesale,Stationery,File Folder,5,456,0.1,228,2052,1138.29,913.71,Card
+573,2025-03-14 00:00:00,Hubballi,Online,Fitness,Yoga Mat,1,1814,0.05,90.7,1723.3,1238.92,484.38,UPI
+574,2025-06-13 00:00:00,Davanagere,Wholesale,Stationery,Pen Set,1,586,0.1,58.6,527.4,427.16,100.24,Net Banking
+575,2025-03-08 00:00:00,Davanagere,Wholesale,Home,Wall Clock,6,463,0.05,138.9,2639.1,1952.63,686.47,UPI
+576,2025-03-06 00:00:00,Mysuru,Wholesale,Home,Bedsheet,1,266,0.05,13.3,252.7,150.35,102.35,Net Banking
+577,2025-11-29 00:00:00,Mysuru,Retail,Home,Storage Box,1,1720,0,0,1720,1042.64,677.36,Card
+578,2025-09-24 00:00:00,Mysuru,Wholesale,Electronics,Wireless Mouse,1,2103,0.1,210.3,1892.7,1125.52,767.18,Cash
+579,2025-06-27 00:00:00,Davanagere,Retail,Electronics,Keyboard,7,1412,0.1,988.4,8895.6,5141.11,3754.49,Card
+580,2025-10-03 00:00:00,Hubballi,Retail,Electronics,USB Cable,2,1025,0,0,2050,1166.82,883.18,Card
+581,2025-03-24 00:00:00,Mangaluru,Retail,Electronics,Keyboard,1,2013,0.05,100.65,1912.35,1153.6,758.75,Cash
+582,2025-01-22 00:00:00,Davanagere,Retail,Home,Table Lamp,2,1785,0.05,178.5,3391.5,2109,1282.5,UPI
+583,2025-03-14 00:00:00,Mysuru,Retail,Fitness,Dumbbells,7,763,0.05,267.05,5073.95,3714.43,1359.52,Card
+584,2025-01-02 00:00:00,Hubballi,Online,Electronics,Keyboard,3,1496,0,0,4488,3061.24,1426.76,UPI
+585,2025-02-01 00:00:00,Davanagere,Retail,Fitness,Skipping Rope,2,1922,0.05,192.2,3651.8,2475.92,1175.88,Cash
+586,2025-04-24 00:00:00,Hubballi,Wholesale,Fitness,Gym Gloves,6,881,0.05,264.3,5021.7,3684.68,1337.02,Cash
+587,2025-08-19 00:00:00,Davanagere,Wholesale,Electronics,USB Cable,3,1643,0,0,4929,2733.46,2195.54,Card
+588,2025-11-09 00:00:00,Hubballi,Wholesale,Electronics,Wireless Mouse,6,810,0.15,729,4131,3293.52,837.48,Net Banking
+589,2025-02-14 00:00:00,Mysuru,Wholesale,Stationery,Desk Organizer,1,687,0,0,687,428.25,258.75,UPI
+590,2025-03-03 00:00:00,Bengaluru,Wholesale,Electronics,Wireless Mouse,3,779,0,0,2337,1907.62,429.38,UPI
+591,2025-03-05 00:00:00,Davanagere,Wholesale,Electronics,USB Cable,7,396,0,0,2772,1886.2,885.8,Net Banking
+592,2025-06-11 00:00:00,Mangaluru,Wholesale,Fitness,Yoga Mat,5,2108,0.15,1581,8959,6075.31,2883.69,Card
+593,2025-10-25 00:00:00,Mangaluru,Wholesale,Home,Table Lamp,4,1657,0.05,331.4,6296.6,4172.72,2123.88,Net Banking
+594,2025-04-24 00:00:00,Mysuru,Retail,Fitness,Dumbbells,3,1537,0.1,461.1,4149.9,3357.07,792.83,Card
+595,2025-08-03 00:00:00,Mangaluru,Online,Home,Water Bottle,3,175,0,0,525,317.05,207.95,Net Banking
+596,2025-08-17 00:00:00,Davanagere,Retail,Stationery,Marker Set,3,696,0,0,2088,1346.69,741.31,UPI
+597,2025-01-22 00:00:00,Mangaluru,Online,Stationery,Desk Organizer,7,67,0,0,469,373.4,95.6,UPI
+598,2025-08-29 00:00:00,Mysuru,Retail,Home,Table Lamp,6,795,0,0,4770,3549.11,1220.89,Net Banking
+599,2025-09-04 00:00:00,Hubballi,Online,Stationery,Notebook,6,119,0,0,714,486.55,227.45,Cash
+600,2025-03-30 00:00:00,Hubballi,Wholesale,Home,Storage Box,5,382,0,0,1910,1076.7,833.3,UPI
+601,2025-07-05 00:00:00,Bengaluru,Online,Fitness,Dumbbells,2,1272,0,0,2544,1986.6,557.4,Card
+602,2025-05-13 00:00:00,Mangaluru,Wholesale,Home,Table Lamp,3,755,0.15,339.75,1925.25,1061.42,863.83,Net Banking
+603,2025-10-20 00:00:00,Hubballi,Online,Electronics,Keyboard,5,1779,0.1,889.5,8005.5,6230.87,1774.63,Cash
+604,2025-07-11 00:00:00,Mysuru,Wholesale,Fitness,Skipping Rope,3,1816,0.1,544.8,4903.2,2890.85,2012.35,Cash
+605,2025-11-19 00:00:00,Davanagere,Online,Stationery,Notebook,6,648,0.1,388.8,3499.2,2302.81,1196.39,Cash
+606,2025-12-22 00:00:00,Hubballi,Wholesale,Home,Bedsheet,4,788,0,0,3152,1917.09,1234.91,Net Banking
+607,2025-03-26 00:00:00,Mangaluru,Online,Home,Wall Clock,3,760,0,0,2280,1848.01,431.99,Net Banking
+608,2025-12-09 00:00:00,Davanagere,Retail,Home,Water Bottle,1,766,0,0,766,545.26,220.74,Net Banking
+609,2025-01-20 00:00:00,Bengaluru,Retail,Home,Wall Clock,7,809,0.05,283.15,5379.85,3264.23,2115.62,Card
+610,2025-09-18 00:00:00,Mangaluru,Retail,Stationery,Marker Set,5,420,0,0,2100,1196.33,903.67,Card
+611,2025-11-05 00:00:00,Davanagere,Wholesale,Electronics,USB Cable,4,1788,0.05,357.6,6794.4,3979.94,2814.46,Net Banking
+612,2025-02-08 00:00:00,Davanagere,Retail,Home,Wall Clock,1,405,0,0,405,224.49,180.51,Net Banking
+613,2025-01-15 00:00:00,Hubballi,Wholesale,Home,Storage Box,4,1381,0.1,552.4,4971.6,2904.59,2067.01,UPI
+614,2025-01-29 00:00:00,Bengaluru,Wholesale,Electronics,Headphones,7,1452,0.1,1016.4,9147.6,6299.49,2848.11,Cash
+615,2025-06-30 00:00:00,Davanagere,Retail,Home,Water Bottle,7,738,0,0,5166,2918.62,2247.38,UPI
+616,2025-01-19 00:00:00,Davanagere,Wholesale,Fitness,Yoga Mat,3,862,0,0,2586,1811.52,774.48,Net Banking
+617,2025-08-06 00:00:00,Davanagere,Wholesale,Fitness,Dumbbells,5,2154,0,0,10770,6863.17,3906.83,Net Banking
+618,2025-06-27 00:00:00,Hubballi,Retail,Electronics,Power Bank,3,2158,0.05,323.7,6150.3,3724.73,2425.57,UPI
+619,2025-04-13 00:00:00,Davanagere,Retail,Electronics,USB Cable,1,1118,0.05,55.9,1062.1,599.15,462.95,Cash
+620,2025-01-31 00:00:00,Mangaluru,Online,Stationery,Pen Set,3,322,0,0,966,552.67,413.33,Cash
+621,2025-10-15 00:00:00,Davanagere,Wholesale,Stationery,Marker Set,4,186,0,0,744,416.84,327.16,Card
+622,2025-12-21 00:00:00,Hubballi,Online,Electronics,USB Cable,3,2332,0,0,6996,4414.6,2581.4,Card
+623,2025-01-29 00:00:00,Davanagere,Wholesale,Stationery,Desk Organizer,2,179,0,0,358,236.58,121.42,Card
+624,2025-11-27 00:00:00,Davanagere,Wholesale,Fitness,Dumbbells,4,1686,0,0,6744,5086.77,1657.23,Cash
+625,2025-07-10 00:00:00,Mangaluru,Wholesale,Home,Table Lamp,4,1084,0,0,4336,2422.81,1913.19,Card
+626,2025-07-07 00:00:00,Bengaluru,Retail,Fitness,Gym Gloves,4,1414,0.1,565.6,5090.4,2884.49,2205.91,Card
+627,2025-05-26 00:00:00,Mysuru,Retail,Stationery,Desk Organizer,1,561,0.1,56.1,504.9,347.48,157.42,Cash
+628,2025-12-03 00:00:00,Mysuru,Wholesale,Home,Wall Clock,7,803,0.1,562.1,5058.9,3858.77,1200.13,Card
+629,2025-10-07 00:00:00,Hubballi,Retail,Electronics,Power Bank,6,1663,0,0,9978,7968.13,2009.87,Card
+630,2025-07-18 00:00:00,Davanagere,Wholesale,Electronics,USB Cable,7,2354,0.1,1647.8,14830.2,10093.38,4736.82,Cash
+631,2025-04-10 00:00:00,Davanagere,Retail,Electronics,USB Cable,5,1342,0,0,6710,4715.45,1994.55,UPI
+632,2025-07-09 00:00:00,Bengaluru,Online,Fitness,Resistance Band,7,1917,0,0,13419,8666.41,4752.59,Cash
+633,2025-12-30 00:00:00,Mangaluru,Online,Fitness,Dumbbells,7,1513,0,0,10591,7024.59,3566.41,Cash
+634,2025-02-27 00:00:00,Hubballi,Wholesale,Electronics,Headphones,1,1677,0,0,1677,1283.41,393.59,Net Banking
+635,2025-04-14 00:00:00,Bengaluru,Wholesale,Stationery,Marker Set,2,196,0.1,39.2,352.8,258.16,94.64,Card
+636,2025-12-23 00:00:00,Mysuru,Retail,Fitness,Dumbbells,1,1019,0,0,1019,798.04,220.96,Card
+637,2025-09-15 00:00:00,Bengaluru,Online,Home,Table Lamp,5,887,0.05,221.75,4213.25,3024.79,1188.46,Cash
+638,2025-06-04 00:00:00,Mysuru,Wholesale,Electronics,Power Bank,1,859,0,0,859,505.57,353.43,Card
+639,2025-08-30 00:00:00,Mysuru,Online,Stationery,File Folder,1,201,0,0,201,148.71,52.29,UPI
+640,2025-08-07 00:00:00,Hubballi,Wholesale,Electronics,Power Bank,4,2181,0.1,872.4,7851.6,6202.24,1649.36,Net Banking
+641,2025-04-23 00:00:00,Mangaluru,Retail,Home,Table Lamp,5,554,0.05,138.5,2631.5,1950.19,681.31,Net Banking
+642,2025-08-21 00:00:00,Mangaluru,Wholesale,Home,Storage Box,3,1185,0.05,177.75,3377.25,2348.15,1029.1,Cash
+643,2025-02-25 00:00:00,Hubballi,Online,Stationery,Notebook,6,229,0.05,68.7,1305.3,1001.89,303.41,Cash
+644,2025-02-27 00:00:00,Davanagere,Wholesale,Home,Table Lamp,5,1168,0,0,5840,3446.64,2393.36,Net Banking
+645,2025-08-21 00:00:00,Bengaluru,Wholesale,Home,Table Lamp,2,1506,0,0,3012,2035.35,976.65,UPI
+646,2025-10-11 00:00:00,Bengaluru,Online,Stationery,Pen Set,4,512,0.1,204.8,1843.2,1344.21,498.99,Net Banking
+647,2025-06-02 00:00:00,Mangaluru,Retail,Stationery,Marker Set,5,670,0.1,335,3015,1701.96,1313.04,Net Banking
+648,2025-04-09 00:00:00,Davanagere,Wholesale,Stationery,Marker Set,7,628,0.05,219.8,4176.2,2612.37,1563.83,Cash
+649,2025-04-01 00:00:00,Hubballi,Wholesale,Stationery,File Folder,1,253,0.05,12.65,240.35,187.29,53.06,UPI
+650,2025-09-11 00:00:00,Mangaluru,Retail,Stationery,Marker Set,5,194,0.1,97,873,557.72,315.28,UPI
+651,2025-11-28 00:00:00,Davanagere,Online,Stationery,File Folder,7,634,0,0,4438,3537.81,900.19,Net Banking
+652,2025-04-26 00:00:00,Bengaluru,Wholesale,Electronics,USB Cable,3,575,0,0,1725,1390.08,334.92,Cash
+653,2025-07-03 00:00:00,Bengaluru,Wholesale,Electronics,Headphones,1,1193,0.05,59.65,1133.35,792.47,340.88,Card
+654,2025-10-03 00:00:00,Bengaluru,Online,Fitness,Dumbbells,3,939,0.15,422.55,2394.45,1719.31,675.14,Card
+655,2025-08-30 00:00:00,Bengaluru,Retail,Stationery,Pen Set,7,367,0.1,256.9,2312.1,1391.04,921.06,Card
+656,2025-04-23 00:00:00,Davanagere,Retail,Electronics,USB Cable,4,477,0.1,190.8,1717.2,1170.14,547.06,Net Banking
+657,2025-06-26 00:00:00,Mangaluru,Retail,Home,Water Bottle,4,416,0.05,83.2,1580.8,1264.1,316.7,Net Banking
+658,2025-08-01 00:00:00,Davanagere,Online,Home,Bedsheet,3,743,0,0,2229,1809.99,419.01,Card
+659,2025-08-25 00:00:00,Bengaluru,Online,Electronics,Wireless Mouse,2,1188,0.15,356.4,2019.6,1182.01,837.59,Card
+660,2025-04-04 00:00:00,Hubballi,Retail,Home,Wall Clock,7,1039,0,0,7273,5586.09,1686.91,UPI
+661,2025-08-17 00:00:00,Mangaluru,Wholesale,Fitness,Skipping Rope,7,1669,0,0,11683,6712.31,4970.69,UPI
+662,2025-03-16 00:00:00,Mangaluru,Retail,Stationery,Notebook,2,78,0.15,23.4,132.6,97.14,35.46,UPI
+663,2025-04-12 00:00:00,Mysuru,Online,Electronics,Headphones,5,922,0.1,461,4149,2841.71,1307.29,Cash
+664,2025-11-22 00:00:00,Bengaluru,Online,Stationery,Pen Set,1,653,0,0,653,374.33,278.67,Cash
+665,2025-05-19 00:00:00,Mysuru,Retail,Electronics,USB Cable,1,1706,0,0,1706,950.23,755.77,Card
+666,2025-11-05 00:00:00,Hubballi,Wholesale,Electronics,USB Cable,1,947,0.05,47.35,899.65,532.42,367.23,Net Banking
+667,2025-03-30 00:00:00,Hubballi,Retail,Electronics,Power Bank,2,1429,0.05,142.9,2715.1,2167.76,547.34,Net Banking
+668,2025-10-02 00:00:00,Mysuru,Retail,Fitness,Dumbbells,1,1475,0.05,73.75,1401.25,925.92,475.33,UPI
+669,2025-11-30 00:00:00,Hubballi,Retail,Electronics,Power Bank,3,1100,0.05,165,3135,1954.75,1180.25,Card
+670,2025-12-07 00:00:00,Mysuru,Wholesale,Stationery,Notebook,1,252,0,0,252,146.54,105.46,Net Banking
+671,2025-01-23 00:00:00,Bengaluru,Retail,Fitness,Dumbbells,3,570,0,0,1710,1276.85,433.15,Card
+672,2025-08-04 00:00:00,Hubballi,Wholesale,Home,Water Bottle,6,1115,0,0,6690,5157.7,1532.3,Net Banking
+673,2025-06-19 00:00:00,Bengaluru,Wholesale,Electronics,USB Cable,2,900,0,0,1800,1441.88,358.12,Net Banking
+674,2025-09-23 00:00:00,Mangaluru,Wholesale,Home,Wall Clock,4,960,0.1,384,3456,2150.57,1305.43,Cash
+675,2025-03-12 00:00:00,Mysuru,Wholesale,Stationery,Pen Set,7,666,0,0,4662,3301.17,1360.83,Card
+676,2025-05-13 00:00:00,Mangaluru,Online,Home,Storage Box,3,439,0.1,131.7,1185.3,776.11,409.19,UPI
+677,2025-10-05 00:00:00,Mysuru,Online,Fitness,Resistance Band,4,1114,0.05,222.8,4233.2,3326.42,906.78,Card
+678,2025-06-01 00:00:00,Mysuru,Online,Fitness,Gym Gloves,6,2023,0.1,1213.8,10924.2,8227.38,2696.82,UPI
+679,2025-02-23 00:00:00,Davanagere,Wholesale,Stationery,Pen Set,7,436,0.05,152.6,2899.4,1765.16,1134.24,Net Banking
+680,2025-02-25 00:00:00,Davanagere,Wholesale,Stationery,Pen Set,5,425,0,0,2125,1299.11,825.89,UPI
+681,2025-02-22 00:00:00,Davanagere,Wholesale,Fitness,Resistance Band,3,1725,0,0,5175,3459.18,1715.82,Card
+682,2025-02-17 00:00:00,Mangaluru,Retail,Electronics,Headphones,6,1133,0.1,679.8,6118.2,4596.9,1521.3,Net Banking
+683,2025-06-10 00:00:00,Hubballi,Retail,Electronics,Power Bank,2,1147,0,0,2294,1839.86,454.14,Net Banking
+684,2025-09-10 00:00:00,Bengaluru,Wholesale,Stationery,Desk Organizer,3,589,0.1,176.7,1590.3,1079.53,510.77,UPI
+685,2025-11-21 00:00:00,Hubballi,Retail,Home,Water Bottle,1,1067,0.05,53.35,1013.65,605.19,408.46,Card
+686,2025-07-10 00:00:00,Davanagere,Retail,Fitness,Skipping Rope,1,2092,0.05,104.6,1987.4,1127.68,859.72,Cash
+687,2025-09-02 00:00:00,Hubballi,Online,Fitness,Resistance Band,7,1870,0.1,1309,11781,8502.92,3278.08,Net Banking
+688,2025-01-29 00:00:00,Bengaluru,Online,Electronics,Power Bank,7,1199,0,0,8393,5708.19,2684.81,Net Banking
+689,2025-05-18 00:00:00,Hubballi,Retail,Electronics,USB Cable,7,895,0.05,313.25,5951.75,4600.64,1351.11,UPI
+690,2025-01-28 00:00:00,Mysuru,Wholesale,Home,Table Lamp,7,1669,0,0,11683,6736.94,4946.06,Net Banking
+691,2025-11-16 00:00:00,Davanagere,Retail,Home,Water Bottle,7,1668,0.1,1167.6,10508.4,7382.23,3126.17,Cash
+692,2025-01-20 00:00:00,Davanagere,Online,Electronics,Wireless Mouse,1,1427,0.1,142.7,1284.3,983.83,300.47,Cash
+693,2025-05-10 00:00:00,Mangaluru,Wholesale,Fitness,Skipping Rope,6,2030,0,0,12180,9503.99,2676.01,Cash
+694,2025-06-15 00:00:00,Davanagere,Wholesale,Home,Water Bottle,3,778,0.05,116.7,2217.3,1573.54,643.76,Cash
+695,2025-04-25 00:00:00,Davanagere,Online,Electronics,Wireless Mouse,7,1927,0.05,674.45,12814.55,7296.2,5518.35,Net Banking
+696,2025-06-28 00:00:00,Davanagere,Wholesale,Home,Water Bottle,1,626,0.1,62.6,563.4,406.3,157.1,UPI
+697,2025-06-18 00:00:00,Hubballi,Retail,Fitness,Skipping Rope,4,978,0,0,3912,2762.18,1149.82,Card
+698,2025-07-01 00:00:00,Hubballi,Retail,Home,Wall Clock,2,446,0,0,892,675.75,216.25,UPI
+699,2025-05-12 00:00:00,Mysuru,Wholesale,Electronics,Keyboard,3,731,0,0,2193,1704.7,488.3,Card
+700,2025-10-12 00:00:00,Davanagere,Wholesale,Home,Water Bottle,2,388,0,0,776,450.19,325.81,Net Banking
+701,2025-09-10 00:00:00,Bengaluru,Wholesale,Home,Table Lamp,3,372,0,0,1116,683.4,432.6,Card
+702,2025-06-14 00:00:00,Hubballi,Online,Home,Wall Clock,3,440,0,0,1320,995.1,324.9,Net Banking
+703,2025-02-17 00:00:00,Hubballi,Retail,Stationery,File Folder,3,557,0,0,1671,1215.1,455.9,UPI
+704,2025-04-12 00:00:00,Davanagere,Wholesale,Stationery,Pen Set,2,126,0,0,252,190.74,61.26,Cash
+705,2025-08-13 00:00:00,Mangaluru,Wholesale,Home,Table Lamp,6,1541,0.05,462.3,8783.7,6641.26,2142.44,Card
+706,2025-07-28 00:00:00,Bengaluru,Online,Fitness,Skipping Rope,3,1289,0.05,193.35,3673.65,2430.8,1242.85,Cash
+707,2025-09-03 00:00:00,Bengaluru,Retail,Fitness,Dumbbells,1,1800,0.1,180,1620,1075.51,544.49,Cash
+708,2025-08-22 00:00:00,Bengaluru,Wholesale,Home,Bedsheet,6,1403,0,0,8418,5010.54,3407.46,Net Banking
+709,2025-05-30 00:00:00,Mangaluru,Retail,Electronics,Keyboard,4,382,0,0,1528,1202.38,325.62,Net Banking
+710,2025-04-26 00:00:00,Bengaluru,Wholesale,Electronics,Power Bank,5,2156,0,0,10780,8537.72,2242.28,Card
+711,2025-08-07 00:00:00,Mangaluru,Online,Stationery,Notebook,1,674,0.05,33.7,640.3,412.78,227.52,Card
+712,2025-06-07 00:00:00,Mysuru,Retail,Fitness,Resistance Band,4,290,0,0,1160,697.98,462.02,Net Banking
+713,2025-11-03 00:00:00,Mangaluru,Online,Electronics,USB Cable,4,1582,0,0,6328,4947.63,1380.37,UPI
+714,2025-04-20 00:00:00,Hubballi,Wholesale,Electronics,USB Cable,4,766,0.05,153.2,2910.8,1824.37,1086.43,UPI
+715,2025-05-20 00:00:00,Mangaluru,Retail,Home,Water Bottle,6,755,0.1,453,4077,2535.18,1541.82,Card
+716,2025-07-09 00:00:00,Bengaluru,Online,Stationery,Pen Set,7,677,0,0,4739,2868.99,1870.01,Net Banking
+717,2025-05-27 00:00:00,Bengaluru,Wholesale,Fitness,Yoga Mat,7,683,0.1,478.1,4302.9,2895.35,1407.55,Cash
+718,2025-06-21 00:00:00,Davanagere,Online,Home,Storage Box,6,1325,0,0,7950,5205.55,2744.45,Cash
+719,2025-11-24 00:00:00,Bengaluru,Retail,Electronics,Wireless Mouse,4,1259,0.1,503.6,4532.4,2564.13,1968.27,Cash
+720,2025-07-26 00:00:00,Mysuru,Wholesale,Stationery,File Folder,5,429,0,0,2145,1558.51,586.49,Card
+721,2025-03-14 00:00:00,Bengaluru,Wholesale,Electronics,Headphones,4,1724,0,0,6896,5353.75,1542.25,Net Banking
+722,2025-11-26 00:00:00,Mangaluru,Online,Home,Bedsheet,6,1508,0,0,9048,5574.3,3473.7,Net Banking
+723,2025-08-30 00:00:00,Davanagere,Retail,Stationery,Marker Set,3,105,0.1,31.5,283.5,160.96,122.54,Net Banking
+724,2025-11-13 00:00:00,Bengaluru,Retail,Electronics,Power Bank,4,2293,0,0,9172,5219.09,3952.91,Cash
+725,2025-11-23 00:00:00,Mysuru,Retail,Electronics,Keyboard,2,1957,0.05,195.7,3718.3,2050.16,1668.14,UPI
+726,2025-09-26 00:00:00,Mangaluru,Retail,Stationery,Notebook,2,229,0.1,45.8,412.2,306.84,105.36,UPI
+727,2025-08-13 00:00:00,Mysuru,Wholesale,Home,Water Bottle,4,1130,0,0,4520,3490.1,1029.9,Card
+728,2025-12-23 00:00:00,Bengaluru,Online,Stationery,Notebook,4,587,0.05,117.4,2230.6,1648,582.6,UPI
+729,2025-07-05 00:00:00,Mysuru,Wholesale,Fitness,Resistance Band,5,1324,0,0,6620,4981.06,1638.94,UPI
+730,2025-12-22 00:00:00,Hubballi,Wholesale,Fitness,Skipping Rope,2,1317,0,0,2634,1672.58,961.42,UPI
+731,2025-03-30 00:00:00,Mangaluru,Online,Fitness,Skipping Rope,1,788,0,0,788,540.83,247.17,Card
+732,2025-06-14 00:00:00,Davanagere,Wholesale,Home,Table Lamp,3,1693,0.05,253.95,4825.05,3482.26,1342.79,Cash
+733,2025-10-13 00:00:00,Davanagere,Retail,Fitness,Dumbbells,5,536,0,0,2680,2156.76,523.24,Card
+734,2025-12-22 00:00:00,Mangaluru,Online,Electronics,Wireless Mouse,3,552,0.1,165.6,1490.4,1200.43,289.97,Net Banking
+735,2025-10-07 00:00:00,Mangaluru,Online,Home,Bedsheet,5,1798,0,0,8990,4967.1,4022.9,Net Banking
+736,2025-01-31 00:00:00,Hubballi,Wholesale,Electronics,Headphones,4,2457,0,0,9828,7579.8,2248.2,Net Banking
+737,2025-06-16 00:00:00,Mysuru,Wholesale,Electronics,Headphones,7,556,0,0,3892,2603.2,1288.8,Cash
+738,2025-07-06 00:00:00,Bengaluru,Wholesale,Fitness,Skipping Rope,6,782,0,0,4692,2905.28,1786.72,Cash
+739,2025-06-24 00:00:00,Davanagere,Online,Electronics,Power Bank,3,1231,0.1,369.3,3323.7,1941.24,1382.46,Cash
+740,2025-12-03 00:00:00,Davanagere,Retail,Home,Storage Box,6,1570,0.05,471,8949,6299.96,2649.04,Card
+741,2025-10-24 00:00:00,Hubballi,Retail,Fitness,Gym Gloves,6,1601,0.1,960.6,8645.4,6050.08,2595.32,Net Banking
+742,2025-10-08 00:00:00,Davanagere,Wholesale,Electronics,Wireless Mouse,1,1021,0.05,51.05,969.95,624.88,345.07,UPI
+743,2025-03-02 00:00:00,Davanagere,Retail,Electronics,USB Cable,1,1934,0,0,1934,1436.48,497.52,Cash
+744,2025-09-28 00:00:00,Davanagere,Retail,Electronics,Keyboard,1,1197,0,0,1197,978.1,218.9,Net Banking
+745,2025-03-30 00:00:00,Bengaluru,Online,Fitness,Resistance Band,4,947,0,0,3788,2183.48,1604.52,UPI
+746,2025-02-15 00:00:00,Mysuru,Wholesale,Electronics,Power Bank,5,1831,0,0,9155,6652.42,2502.58,Cash
+747,2025-11-27 00:00:00,Mangaluru,Wholesale,Home,Table Lamp,6,1659,0.05,497.7,9456.3,7602.61,1853.69,UPI
+748,2025-08-16 00:00:00,Hubballi,Online,Electronics,Power Bank,3,471,0,0,1413,880.02,532.98,UPI
+749,2025-05-17 00:00:00,Mysuru,Wholesale,Electronics,Power Bank,5,808,0.05,202,3838,2648.89,1189.11,Cash
+750,2025-07-14 00:00:00,Davanagere,Retail,Electronics,Wireless Mouse,6,1361,0,0,8166,5441.54,2724.46,Card
+751,2025-07-22 00:00:00,Mangaluru,Wholesale,Stationery,Pen Set,7,572,0,0,4004,2982.52,1021.48,Cash
+752,2025-04-17 00:00:00,Bengaluru,Online,Home,Bedsheet,3,272,0.05,40.8,775.2,489.44,285.76,Net Banking
+753,2025-08-23 00:00:00,Hubballi,Online,Stationery,Desk Organizer,4,265,0,0,1060,608.62,451.38,UPI
+754,2025-01-21 00:00:00,Mangaluru,Wholesale,Electronics,Power Bank,4,1711,0,0,6844,5083.81,1760.19,Net Banking
+755,2025-06-30 00:00:00,Davanagere,Retail,Home,Water Bottle,4,934,0.05,186.8,3549.2,2590.07,959.13,Card
+756,2025-02-28 00:00:00,Mangaluru,Wholesale,Electronics,Keyboard,4,862,0,0,3448,1929.15,1518.85,Cash
+757,2025-08-07 00:00:00,Mangaluru,Wholesale,Electronics,Keyboard,1,736,0,0,736,570.45,165.55,UPI
+758,2025-01-29 00:00:00,Bengaluru,Wholesale,Home,Water Bottle,7,600,0,0,4200,2601.55,1598.45,Cash
+759,2025-05-22 00:00:00,Bengaluru,Retail,Stationery,Marker Set,4,546,0.05,109.2,2074.8,1485.19,589.61,UPI
+760,2025-04-22 00:00:00,Mangaluru,Online,Home,Table Lamp,6,866,0,0,5196,3621.25,1574.75,Card
+761,2025-03-28 00:00:00,Mangaluru,Retail,Home,Storage Box,5,886,0.15,664.5,3765.5,2969.53,795.97,Card
+762,2025-04-06 00:00:00,Davanagere,Retail,Stationery,Pen Set,5,162,0.05,40.5,769.5,536.02,233.48,UPI
+763,2025-05-02 00:00:00,Mangaluru,Retail,Electronics,Keyboard,2,1412,0.05,141.2,2682.8,1610.22,1072.58,Card
+764,2025-03-28 00:00:00,Hubballi,Online,Fitness,Skipping Rope,2,261,0.05,26.1,495.9,377.71,118.19,Cash
+765,2025-01-16 00:00:00,Davanagere,Online,Home,Water Bottle,2,536,0,0,1072,834.46,237.54,Net Banking
+766,2025-03-30 00:00:00,Hubballi,Wholesale,Electronics,Headphones,7,1267,0,0,8869,4965.66,3903.34,UPI
+767,2025-09-15 00:00:00,Hubballi,Retail,Home,Table Lamp,3,1193,0,0,3579,2013.56,1565.44,Cash
+768,2025-03-28 00:00:00,Mangaluru,Retail,Fitness,Resistance Band,3,989,0.1,296.7,2670.3,1851.29,819.01,UPI
+769,2025-01-04 00:00:00,Bengaluru,Online,Electronics,Power Bank,6,2013,0.05,603.9,11474.1,6662.03,4812.07,Card
+770,2025-12-10 00:00:00,Bengaluru,Wholesale,Home,Water Bottle,1,849,0,0,849,591.26,257.74,Net Banking
+771,2025-12-14 00:00:00,Hubballi,Retail,Electronics,USB Cable,5,446,0.05,111.5,2118.5,1568.81,549.69,UPI
+772,2025-05-05 00:00:00,Davanagere,Retail,Home,Storage Box,3,1686,0.1,505.8,4552.2,2562.51,1989.69,Cash
+773,2025-05-16 00:00:00,Davanagere,Retail,Fitness,Gym Gloves,3,1598,0,0,4794,2864.56,1929.44,Card
+774,2025-08-19 00:00:00,Bengaluru,Wholesale,Fitness,Skipping Rope,7,1698,0,0,11886,7542.37,4343.63,Cash
+775,2025-01-29 00:00:00,Bengaluru,Online,Electronics,USB Cable,4,1006,0.1,402.4,3621.6,2545.2,1076.4,Card
+776,2025-07-29 00:00:00,Mangaluru,Wholesale,Home,Storage Box,2,1785,0,0,3570,2817.87,752.13,Card
+777,2025-08-25 00:00:00,Mangaluru,Retail,Electronics,Keyboard,5,1939,0,0,9695,6479.56,3215.44,Cash
+778,2025-02-18 00:00:00,Mysuru,Retail,Stationery,File Folder,1,529,0,0,529,418.14,110.86,Net Banking
+779,2025-09-25 00:00:00,Mangaluru,Retail,Fitness,Yoga Mat,4,290,0.05,58,1102,617.51,484.49,UPI
+780,2025-07-27 00:00:00,Mysuru,Wholesale,Home,Table Lamp,5,1061,0.05,265.25,5039.75,3009.46,2030.29,Net Banking
+781,2025-12-19 00:00:00,Mysuru,Retail,Home,Storage Box,5,1250,0,0,6250,4415.63,1834.37,Cash
+782,2025-11-12 00:00:00,Mysuru,Online,Fitness,Dumbbells,6,579,0.05,173.7,3300.3,1941.27,1359.03,Card
+783,2025-04-25 00:00:00,Mangaluru,Wholesale,Electronics,Headphones,5,439,0,0,2195,1797.93,397.07,Card
+784,2025-12-05 00:00:00,Mangaluru,Wholesale,Stationery,File Folder,7,527,0,0,3689,2120.57,1568.43,Card
+785,2025-04-22 00:00:00,Hubballi,Online,Electronics,Keyboard,7,1400,0.05,490,9310,5257.96,4052.04,UPI
+786,2025-02-09 00:00:00,Hubballi,Online,Electronics,Power Bank,6,1421,0.1,852.6,7673.4,5344.1,2329.3,Net Banking
+787,2025-12-02 00:00:00,Hubballi,Retail,Home,Storage Box,7,1642,0.05,574.7,10919.3,7715.09,3204.21,Net Banking
+788,2025-10-15 00:00:00,Bengaluru,Retail,Stationery,Marker Set,2,541,0,0,1082,788.61,293.39,Net Banking
+789,2025-10-21 00:00:00,Hubballi,Online,Electronics,USB Cable,1,1690,0.1,169,1521,1202.79,318.21,Net Banking
+790,2025-07-07 00:00:00,Bengaluru,Retail,Electronics,Headphones,5,1942,0,0,9710,6331.57,3378.43,Card
+791,2025-01-22 00:00:00,Mangaluru,Online,Home,Wall Clock,1,709,0,0,709,533.43,175.57,Cash
+792,2025-05-18 00:00:00,Mysuru,Wholesale,Fitness,Gym Gloves,2,933,0,0,1866,1502.28,363.72,Cash
+793,2025-09-14 00:00:00,Hubballi,Retail,Home,Wall Clock,3,1554,0,0,4662,3385.13,1276.87,Card
+794,2025-12-30 00:00:00,Hubballi,Retail,Electronics,Wireless Mouse,7,830,0.15,871.5,4938.5,3136.48,1802.02,UPI
+795,2025-10-13 00:00:00,Bengaluru,Retail,Fitness,Resistance Band,2,992,0,0,1984,1146.59,837.41,Net Banking
+796,2025-12-19 00:00:00,Davanagere,Wholesale,Home,Water Bottle,7,1408,0,0,9856,6435.08,3420.92,UPI
+797,2025-02-04 00:00:00,Hubballi,Wholesale,Fitness,Resistance Band,3,1705,0,0,5115,3384.27,1730.73,Cash
+798,2025-08-17 00:00:00,Mysuru,Wholesale,Home,Table Lamp,6,531,0,0,3186,2380.25,805.75,Net Banking
+799,2025-05-24 00:00:00,Mysuru,Online,Fitness,Dumbbells,2,482,0,0,964,747.94,216.06,UPI
+800,2025-08-20 00:00:00,Hubballi,Wholesale,Home,Wall Clock,1,741,0.05,37.05,703.95,447.3,256.65,Cash
+801,2025-05-15 00:00:00,Davanagere,Online,Home,Table Lamp,2,213,0.1,42.6,383.4,303.22,80.18,Cash
+802,2025-01-04 00:00:00,Hubballi,Online,Electronics,USB Cable,1,593,0,0,593,414.15,178.85,Card
+803,2025-07-26 00:00:00,Mysuru,Online,Home,Water Bottle,3,1029,0.1,308.7,2778.3,1859.28,919.02,UPI
+804,2025-01-21 00:00:00,Mysuru,Retail,Fitness,Resistance Band,4,1232,0.1,492.8,4435.2,2492.22,1942.98,Net Banking
+805,2025-10-30 00:00:00,Davanagere,Online,Electronics,USB Cable,3,544,0.05,81.6,1550.4,1174.62,375.78,UPI
+806,2025-12-24 00:00:00,Bengaluru,Online,Electronics,USB Cable,1,2212,0,0,2212,1405.33,806.67,UPI
+807,2025-04-21 00:00:00,Bengaluru,Online,Electronics,Power Bank,1,817,0,0,817,664.96,152.04,Card
+808,2025-07-26 00:00:00,Davanagere,Online,Home,Wall Clock,7,646,0.15,678.3,3843.7,3143.42,700.28,Card
+809,2025-05-27 00:00:00,Davanagere,Online,Electronics,USB Cable,7,1015,0.1,710.5,6394.5,4431.7,1962.8,Net Banking
+810,2025-09-07 00:00:00,Mangaluru,Wholesale,Fitness,Dumbbells,6,1085,0.1,651,5859,3425.75,2433.25,Cash
+811,2025-06-03 00:00:00,Bengaluru,Retail,Stationery,Marker Set,5,308,0,0,1540,1227.4,312.6,UPI
+812,2025-03-18 00:00:00,Hubballi,Wholesale,Fitness,Skipping Rope,7,470,0.05,164.5,3125.5,2096.42,1029.08,UPI
+813,2025-03-02 00:00:00,Mysuru,Wholesale,Fitness,Dumbbells,6,802,0.05,240.6,4571.4,3641.54,929.86,Cash
+814,2025-12-02 00:00:00,Mysuru,Retail,Electronics,Keyboard,3,1204,0.05,180.6,3431.4,2168.45,1262.95,UPI
+815,2025-10-06 00:00:00,Hubballi,Retail,Fitness,Yoga Mat,4,1361,0.05,272.2,5171.8,2923.36,2248.44,UPI
+816,2025-05-08 00:00:00,Davanagere,Online,Home,Bedsheet,7,1051,0,0,7357,5822.36,1534.64,Card
+817,2025-01-29 00:00:00,Hubballi,Wholesale,Home,Storage Box,1,311,0,0,311,238.74,72.26,Card
+818,2025-01-21 00:00:00,Davanagere,Wholesale,Electronics,Power Bank,6,431,0.15,387.9,2198.1,1790.41,407.69,Cash
+819,2025-02-02 00:00:00,Bengaluru,Online,Stationery,File Folder,6,84,0.1,50.4,453.6,266.46,187.14,UPI
+820,2025-11-15 00:00:00,Hubballi,Wholesale,Stationery,File Folder,5,185,0.05,46.25,878.75,561.08,317.67,Card
+821,2025-04-15 00:00:00,Mysuru,Wholesale,Electronics,Power Bank,2,2148,0,0,4296,2642.2,1653.8,UPI
+822,2025-11-15 00:00:00,Hubballi,Retail,Stationery,Desk Organizer,7,91,0.15,95.55,541.45,350.64,190.81,Cash
+823,2025-02-17 00:00:00,Mangaluru,Wholesale,Electronics,USB Cable,3,446,0,0,1338,822.5,515.5,UPI
+824,2025-12-10 00:00:00,Mysuru,Wholesale,Fitness,Dumbbells,5,1973,0,0,9865,6983.28,2881.72,Cash
+825,2025-03-13 00:00:00,Mangaluru,Wholesale,Fitness,Yoga Mat,3,562,0,0,1686,1265.21,420.79,Cash
+826,2025-02-11 00:00:00,Bengaluru,Wholesale,Electronics,Headphones,1,1995,0.05,99.75,1895.25,1166.32,728.93,Card
+827,2025-02-08 00:00:00,Hubballi,Online,Stationery,Marker Set,1,463,0,0,463,359.52,103.48,Cash
+828,2025-01-05 00:00:00,Mangaluru,Wholesale,Fitness,Skipping Rope,6,382,0,0,2292,1641.64,650.36,Card
+829,2025-05-05 00:00:00,Mysuru,Online,Electronics,Keyboard,2,1946,0.05,194.6,3697.4,2741.04,956.36,Card
+830,2025-11-03 00:00:00,Davanagere,Wholesale,Home,Water Bottle,2,784,0.05,78.4,1489.6,892.18,597.42,Net Banking
+831,2025-06-30 00:00:00,Mysuru,Wholesale,Electronics,Headphones,3,1599,0,0,4797,3125.75,1671.25,Card
+832,2025-03-09 00:00:00,Bengaluru,Online,Fitness,Yoga Mat,4,1141,0.1,456.4,4107.6,3348.7,758.9,Card
+833,2025-06-24 00:00:00,Bengaluru,Retail,Electronics,Wireless Mouse,7,584,0,0,4088,3342.21,745.79,UPI
+834,2025-10-14 00:00:00,Mangaluru,Retail,Home,Storage Box,4,1479,0,0,5916,3759.65,2156.35,Net Banking
+835,2025-02-04 00:00:00,Bengaluru,Online,Stationery,Marker Set,1,574,0.05,28.7,545.3,337.47,207.83,UPI
+836,2025-05-08 00:00:00,Mysuru,Wholesale,Home,Storage Box,4,562,0,0,2248,1543.86,704.14,Card
+837,2025-11-13 00:00:00,Bengaluru,Wholesale,Electronics,Keyboard,2,2323,0,0,4646,2766.37,1879.63,Card
+838,2025-06-29 00:00:00,Mangaluru,Online,Electronics,Headphones,7,498,0.05,174.3,3311.7,1908.09,1403.61,Cash
+839,2025-03-27 00:00:00,Mangaluru,Online,Fitness,Resistance Band,2,1457,0,0,2914,1926.65,987.35,UPI
+840,2025-10-18 00:00:00,Bengaluru,Wholesale,Stationery,Marker Set,4,557,0,0,2228,1600.02,627.98,Net Banking
+841,2025-01-08 00:00:00,Hubballi,Retail,Electronics,Wireless Mouse,5,1001,0,0,5005,3640.75,1364.25,Net Banking
+842,2025-07-01 00:00:00,Bengaluru,Retail,Fitness,Resistance Band,2,1090,0.05,109,2071,1230.5,840.5,UPI
+843,2025-09-22 00:00:00,Mangaluru,Wholesale,Electronics,Power Bank,7,2029,0.05,710.15,13492.85,7885.81,5607.04,Cash
+844,2025-01-20 00:00:00,Davanagere,Online,Electronics,Power Bank,2,1025,0,0,2050,1590.44,459.56,UPI
+845,2025-06-27 00:00:00,Hubballi,Retail,Stationery,Pen Set,1,186,0.05,9.3,176.7,107.44,69.26,Net Banking
+846,2025-10-02 00:00:00,Mysuru,Wholesale,Fitness,Dumbbells,7,1867,0.05,653.45,12415.55,9712.29,2703.26,Net Banking
+847,2025-02-27 00:00:00,Mangaluru,Wholesale,Electronics,Wireless Mouse,4,924,0.05,184.8,3511.2,2126.52,1384.68,UPI
+848,2025-12-22 00:00:00,Davanagere,Wholesale,Fitness,Resistance Band,7,1215,0,0,8505,4968.73,3536.27,UPI
+849,2025-01-17 00:00:00,Davanagere,Retail,Home,Water Bottle,2,367,0.05,36.7,697.3,417.37,279.93,UPI
+850,2025-03-13 00:00:00,Bengaluru,Wholesale,Fitness,Resistance Band,7,1545,0,0,10815,8437.41,2377.59,Card
+851,2025-06-06 00:00:00,Mangaluru,Retail,Electronics,Power Bank,6,920,0,0,5520,3051.42,2468.58,Net Banking
+852,2025-12-14 00:00:00,Bengaluru,Online,Fitness,Yoga Mat,1,1850,0,0,1850,1361.78,488.22,Cash
+853,2025-02-11 00:00:00,Hubballi,Wholesale,Stationery,Pen Set,3,420,0.1,126,1134,702.68,431.32,Net Banking
+854,2025-10-08 00:00:00,Hubballi,Online,Stationery,Desk Organizer,4,184,0,0,736,595.42,140.58,UPI
+855,2025-12-24 00:00:00,Davanagere,Wholesale,Electronics,USB Cable,3,653,0.1,195.9,1763.1,1247.39,515.71,Card
+856,2025-02-22 00:00:00,Mysuru,Online,Fitness,Gym Gloves,2,1972,0,0,3944,3213.47,730.53,Card
+857,2025-09-09 00:00:00,Mysuru,Online,Electronics,USB Cable,3,2353,0,0,7059,5375.4,1683.6,UPI
+858,2025-07-24 00:00:00,Mangaluru,Online,Electronics,Wireless Mouse,7,2323,0.1,1626.1,14634.9,11848.49,2786.41,Net Banking
+859,2025-07-31 00:00:00,Hubballi,Wholesale,Electronics,Headphones,7,556,0,0,3892,2413.88,1478.12,UPI
+860,2025-03-21 00:00:00,Bengaluru,Wholesale,Stationery,Notebook,2,616,0.1,123.2,1108.8,652.24,456.56,Card
+861,2025-08-03 00:00:00,Mangaluru,Online,Fitness,Gym Gloves,5,1967,0.1,983.5,8851.5,7247.72,1603.78,Card
+862,2025-11-07 00:00:00,Mangaluru,Wholesale,Home,Water Bottle,1,933,0,0,933,733.13,199.87,Cash
+863,2025-10-30 00:00:00,Hubballi,Retail,Home,Storage Box,5,1169,0.1,584.5,5260.5,3916.75,1343.75,Card
+864,2025-03-17 00:00:00,Mangaluru,Retail,Fitness,Yoga Mat,4,404,0,0,1616,1034.13,581.87,Card
+865,2025-11-03 00:00:00,Mangaluru,Retail,Electronics,Headphones,7,1468,0.05,513.8,9762.2,7190.16,2572.04,UPI
+866,2025-12-03 00:00:00,Bengaluru,Retail,Home,Wall Clock,5,1351,0,0,6755,4175.23,2579.77,Cash
+867,2025-06-28 00:00:00,Bengaluru,Online,Electronics,Power Bank,4,923,0,0,3692,2566.32,1125.68,Net Banking
+868,2025-01-25 00:00:00,Hubballi,Retail,Home,Wall Clock,7,1094,0.05,382.9,7275.1,4300.22,2974.88,Cash
+869,2025-02-03 00:00:00,Hubballi,Wholesale,Fitness,Resistance Band,4,2071,0.1,828.4,7455.6,5297.99,2157.61,Net Banking
+870,2025-08-09 00:00:00,Hubballi,Online,Fitness,Resistance Band,4,1834,0,0,7336,4838.22,2497.78,Cash
+871,2025-04-03 00:00:00,Mysuru,Online,Stationery,Marker Set,1,368,0.05,18.4,349.6,267.04,82.56,UPI
+872,2025-05-13 00:00:00,Davanagere,Wholesale,Fitness,Gym Gloves,3,1826,0,0,5478,3437.19,2040.81,Card
+873,2025-09-02 00:00:00,Bengaluru,Retail,Fitness,Dumbbells,2,1868,0,0,3736,2161.64,1574.36,Card
+874,2025-04-15 00:00:00,Mangaluru,Online,Electronics,Keyboard,1,2210,0,0,2210,1655.15,554.85,UPI
+875,2025-07-12 00:00:00,Davanagere,Retail,Home,Wall Clock,1,1238,0,0,1238,919.61,318.39,Net Banking
+876,2025-04-15 00:00:00,Davanagere,Wholesale,Stationery,Marker Set,1,666,0,0,666,442.46,223.54,Card
+877,2025-01-27 00:00:00,Bengaluru,Online,Electronics,USB Cable,5,620,0.15,465,2635,1577.31,1057.69,Card
+878,2025-02-03 00:00:00,Mangaluru,Retail,Stationery,File Folder,5,280,0.05,70,1330,973.61,356.39,Cash
+879,2025-04-17 00:00:00,Mangaluru,Retail,Home,Water Bottle,3,624,0,0,1872,1220.98,651.02,UPI
+880,2025-04-30 00:00:00,Mysuru,Wholesale,Home,Storage Box,5,1174,0,0,5870,3540.65,2329.35,Net Banking
+881,2025-06-11 00:00:00,Mangaluru,Wholesale,Home,Storage Box,1,281,0,0,281,166.37,114.63,Card
+882,2025-07-06 00:00:00,Mysuru,Wholesale,Fitness,Dumbbells,5,1032,0.05,258,4902,2729.81,2172.19,Cash
+883,2025-03-08 00:00:00,Mangaluru,Online,Home,Storage Box,7,1716,0.05,600.6,11411.4,7920.72,3490.68,Net Banking
+884,2025-11-02 00:00:00,Bengaluru,Wholesale,Fitness,Dumbbells,4,1051,0,0,4204,2339.99,1864.01,Card
+885,2025-03-31 00:00:00,Bengaluru,Retail,Electronics,Wireless Mouse,3,1329,0.1,398.7,3588.3,2286.48,1301.82,Cash
+886,2025-04-01 00:00:00,Davanagere,Retail,Stationery,Desk Organizer,7,473,0.1,331.1,2979.9,1871.87,1108.03,Card
+887,2025-02-13 00:00:00,Davanagere,Online,Fitness,Yoga Mat,5,2130,0.1,1065,9585,7038.61,2546.39,Net Banking
+888,2025-06-21 00:00:00,Hubballi,Retail,Home,Bedsheet,4,270,0,0,1080,810.76,269.24,Card
+889,2025-02-12 00:00:00,Mysuru,Retail,Home,Storage Box,5,772,0,0,3860,2179.21,1680.79,Net Banking
+890,2025-03-08 00:00:00,Mysuru,Wholesale,Fitness,Gym Gloves,1,583,0.1,58.3,524.7,339.77,184.93,Net Banking
+891,2025-06-07 00:00:00,Mangaluru,Wholesale,Stationery,Desk Organizer,4,284,0,0,1136,632.87,503.13,UPI
+892,2025-02-28 00:00:00,Hubballi,Online,Electronics,Power Bank,6,1053,0,0,6318,3664.36,2653.64,Cash
+893,2025-01-26 00:00:00,Mangaluru,Online,Fitness,Resistance Band,5,1040,0,0,5200,3888.06,1311.94,Net Banking
+894,2025-06-09 00:00:00,Hubballi,Online,Home,Table Lamp,6,373,0,0,2238,1244.89,993.11,Cash
+895,2025-08-09 00:00:00,Hubballi,Wholesale,Electronics,Power Bank,3,2313,0.15,1040.85,5898.15,4337.47,1560.68,Cash
+896,2025-07-27 00:00:00,Hubballi,Retail,Fitness,Skipping Rope,5,1863,0,0,9315,6769.66,2545.34,Card
+897,2025-01-24 00:00:00,Mysuru,Retail,Home,Water Bottle,6,365,0.1,219,1971,1244.68,726.32,UPI
+898,2025-11-05 00:00:00,Mangaluru,Retail,Home,Table Lamp,3,176,0.05,26.4,501.6,366.16,135.44,Net Banking
+899,2025-06-18 00:00:00,Hubballi,Wholesale,Fitness,Yoga Mat,4,727,0,0,2908,1664.31,1243.69,UPI
+900,2025-09-11 00:00:00,Hubballi,Wholesale,Fitness,Skipping Rope,1,1286,0,0,1286,946.82,339.18,Cash
+901,2025-01-19 00:00:00,Hubballi,Wholesale,Fitness,Gym Gloves,7,1216,0,0,8512,6601.93,1910.07,Card
+902,2025-01-28 00:00:00,Mysuru,Wholesale,Stationery,Marker Set,5,560,0,0,2800,1614.42,1185.58,Card
+903,2025-10-30 00:00:00,Hubballi,Wholesale,Electronics,Keyboard,7,1340,0,0,9380,5245.55,4134.45,Net Banking
+904,2025-08-05 00:00:00,Hubballi,Online,Stationery,File Folder,7,245,0.1,171.5,1543.5,1257.53,285.97,Net Banking
+905,2025-07-19 00:00:00,Mysuru,Wholesale,Electronics,Wireless Mouse,6,1972,0,0,11832,9422.98,2409.02,Card
+906,2025-05-16 00:00:00,Davanagere,Wholesale,Home,Wall Clock,4,1147,0.05,229.4,4358.6,3311.56,1047.04,Card
+907,2025-09-25 00:00:00,Bengaluru,Wholesale,Electronics,Power Bank,1,2410,0.1,241,2169,1575.36,593.64,Card
+908,2025-10-06 00:00:00,Davanagere,Wholesale,Stationery,Notebook,6,152,0,0,912,552.34,359.66,Net Banking
+909,2025-01-08 00:00:00,Mysuru,Wholesale,Electronics,Power Bank,1,812,0.1,81.2,730.8,461.82,268.98,UPI
+910,2025-03-25 00:00:00,Davanagere,Wholesale,Fitness,Resistance Band,1,1853,0,0,1853,1300.31,552.69,Card
+911,2025-07-20 00:00:00,Mysuru,Online,Fitness,Dumbbells,3,1230,0,0,3690,2215.59,1474.41,UPI
+912,2025-11-06 00:00:00,Hubballi,Retail,Stationery,Notebook,6,538,0,0,3228,2403.3,824.7,Card
+913,2025-01-11 00:00:00,Mangaluru,Online,Fitness,Skipping Rope,7,1067,0,0,7469,5032.89,2436.11,Net Banking
+914,2025-09-29 00:00:00,Davanagere,Online,Home,Bedsheet,7,770,0.05,269.5,5120.5,2881.7,2238.8,Net Banking
+915,2025-07-26 00:00:00,Bengaluru,Retail,Stationery,Notebook,2,581,0,0,1162,820.92,341.08,Card
+916,2025-07-06 00:00:00,Mysuru,Online,Electronics,Power Bank,6,1214,0.05,364.2,6919.8,4315.12,2604.68,Net Banking
+917,2025-08-07 00:00:00,Davanagere,Wholesale,Home,Storage Box,1,1235,0,0,1235,795.37,439.63,Cash
+918,2025-01-20 00:00:00,Bengaluru,Wholesale,Stationery,Desk Organizer,2,295,0.05,29.5,560.5,404.24,156.26,Net Banking
+919,2025-07-13 00:00:00,Davanagere,Online,Home,Storage Box,4,1199,0,0,4796,3921.97,874.03,Card
+920,2025-09-02 00:00:00,Mangaluru,Online,Electronics,Wireless Mouse,2,1219,0,0,2438,1948.14,489.86,Net Banking
+921,2025-05-21 00:00:00,Mysuru,Online,Stationery,Pen Set,4,339,0.05,67.8,1288.2,855.59,432.61,Cash
+922,2025-05-21 00:00:00,Mangaluru,Retail,Fitness,Yoga Mat,7,1500,0.05,525,9975,6373.28,3601.72,UPI
+923,2025-12-18 00:00:00,Mangaluru,Retail,Fitness,Resistance Band,3,1071,0.05,160.65,3052.35,2398.94,653.41,Net Banking
+924,2025-05-30 00:00:00,Davanagere,Retail,Electronics,Headphones,4,1535,0,0,6140,3583.79,2556.21,UPI
+925,2025-05-01 00:00:00,Bengaluru,Online,Fitness,Gym Gloves,5,1541,0,0,7705,5196.86,2508.14,Net Banking
+926,2025-05-16 00:00:00,Mangaluru,Online,Stationery,File Folder,7,418,0.1,292.6,2633.4,1727.77,905.63,Cash
+927,2025-09-05 00:00:00,Mysuru,Wholesale,Stationery,Pen Set,7,479,0,0,3353,2375.32,977.68,Card
+928,2025-01-27 00:00:00,Mangaluru,Wholesale,Home,Wall Clock,2,1233,0.05,123.3,2342.7,1308.32,1034.38,Card
+929,2025-08-17 00:00:00,Mangaluru,Online,Home,Table Lamp,5,983,0,0,4915,3361.57,1553.43,UPI
+930,2025-08-05 00:00:00,Bengaluru,Online,Fitness,Gym Gloves,1,450,0,0,450,360.9,89.1,UPI
+931,2025-04-17 00:00:00,Mysuru,Retail,Electronics,Headphones,1,714,0,0,714,398.54,315.46,UPI
+932,2025-08-06 00:00:00,Bengaluru,Wholesale,Stationery,Desk Organizer,7,185,0,0,1295,862.36,432.64,Cash
+933,2025-05-17 00:00:00,Hubballi,Online,Stationery,Pen Set,6,630,0.15,567,3213,2488.71,724.29,Net Banking
+934,2025-05-06 00:00:00,Hubballi,Wholesale,Fitness,Yoga Mat,6,1449,0.05,434.7,8259.3,5814.97,2444.33,Net Banking
+935,2025-04-20 00:00:00,Mangaluru,Online,Home,Water Bottle,2,936,0.1,187.2,1684.8,1355.15,329.65,Card
+936,2025-12-05 00:00:00,Mangaluru,Wholesale,Electronics,Headphones,6,1299,0,0,7794,5112.72,2681.28,Card
+937,2025-01-11 00:00:00,Mysuru,Wholesale,Fitness,Resistance Band,6,1532,0,0,9192,7358.58,1833.42,Net Banking
+938,2025-12-18 00:00:00,Hubballi,Retail,Home,Bedsheet,4,426,0,0,1704,1324.15,379.85,Cash
+939,2025-05-05 00:00:00,Mysuru,Wholesale,Fitness,Resistance Band,6,360,0,0,2160,1637.54,522.46,Net Banking
+940,2025-08-05 00:00:00,Mysuru,Online,Home,Water Bottle,6,1188,0.05,356.4,6771.6,5206.65,1564.95,Net Banking
+941,2025-01-14 00:00:00,Mangaluru,Retail,Electronics,Keyboard,2,2295,0.05,229.5,4360.5,2846.96,1513.54,Net Banking
+942,2025-04-21 00:00:00,Hubballi,Wholesale,Electronics,Wireless Mouse,4,706,0.1,282.4,2541.6,1900.41,641.19,Card
+943,2025-06-23 00:00:00,Mysuru,Retail,Electronics,Power Bank,7,815,0.05,285.25,5419.75,3902.65,1517.1,Net Banking
+944,2025-01-27 00:00:00,Bengaluru,Online,Fitness,Gym Gloves,3,1657,0,0,4971,3716.22,1254.78,Card
+945,2025-10-21 00:00:00,Mangaluru,Online,Electronics,Power Bank,3,1159,0.05,173.85,3303.15,2661.79,641.36,Net Banking
+946,2025-01-05 00:00:00,Davanagere,Wholesale,Electronics,Keyboard,2,2272,0.15,681.6,3862.4,3004.05,858.35,Cash
+947,2025-02-12 00:00:00,Mysuru,Retail,Fitness,Yoga Mat,3,2137,0,0,6411,4547.72,1863.28,Card
+948,2025-08-06 00:00:00,Mysuru,Wholesale,Fitness,Dumbbells,3,306,0.05,45.9,872.1,681.28,190.82,Net Banking
+949,2025-12-12 00:00:00,Hubballi,Online,Fitness,Yoga Mat,4,1055,0.05,211,4009,2259.11,1749.89,Cash
+950,2025-04-16 00:00:00,Hubballi,Online,Home,Wall Clock,4,191,0.05,38.2,725.8,495.81,229.99,Card
+951,2025-08-25 00:00:00,Davanagere,Online,Home,Storage Box,4,198,0.15,118.8,673.2,500.24,172.96,Net Banking
+952,2025-05-18 00:00:00,Mysuru,Wholesale,Fitness,Dumbbells,2,2039,0.15,611.7,3466.3,2126.78,1339.52,Card
+953,2025-01-04 00:00:00,Bengaluru,Online,Electronics,Headphones,7,525,0,0,3675,2576.8,1098.2,Cash
+954,2025-12-22 00:00:00,Bengaluru,Wholesale,Electronics,Wireless Mouse,5,2228,0.05,557,10583,5971.07,4611.93,Card
+955,2025-09-26 00:00:00,Davanagere,Online,Home,Wall Clock,3,165,0.1,49.5,445.5,246,199.5,Net Banking
+956,2025-11-12 00:00:00,Bengaluru,Retail,Home,Table Lamp,3,1157,0.1,347.1,3123.9,1877.45,1246.45,Card
+957,2025-12-08 00:00:00,Hubballi,Retail,Fitness,Gym Gloves,5,1065,0,0,5325,3483.45,1841.55,Card
+958,2025-08-30 00:00:00,Hubballi,Retail,Stationery,Pen Set,5,217,0,0,1085,652.1,432.9,Net Banking
+959,2025-08-07 00:00:00,Hubballi,Retail,Stationery,Desk Organizer,1,454,0.05,22.7,431.3,293.93,137.37,UPI
+960,2025-01-04 00:00:00,Bengaluru,Online,Stationery,Desk Organizer,5,584,0,0,2920,2149.91,770.09,Net Banking
+961,2025-07-27 00:00:00,Hubballi,Wholesale,Fitness,Gym Gloves,7,1574,0.05,550.9,10467.1,7653.22,2813.88,UPI
+962,2025-12-09 00:00:00,Hubballi,Online,Fitness,Dumbbells,7,265,0,0,1855,1339.62,515.38,UPI
+963,2025-09-11 00:00:00,Mysuru,Wholesale,Electronics,USB Cable,5,1156,0,0,5780,4139.72,1640.28,Cash
+964,2025-07-28 00:00:00,Hubballi,Online,Stationery,File Folder,5,127,0,0,635,449.98,185.02,Card
+965,2025-07-28 00:00:00,Davanagere,Retail,Home,Storage Box,1,1202,0,0,1202,789.45,412.55,Net Banking
+966,2025-02-22 00:00:00,Bengaluru,Wholesale,Fitness,Dumbbells,2,805,0,0,1610,1315.36,294.64,Card
+967,2025-06-06 00:00:00,Bengaluru,Online,Fitness,Resistance Band,3,620,0.05,93,1767,1291.84,475.16,Net Banking
+968,2025-06-13 00:00:00,Davanagere,Wholesale,Stationery,Marker Set,7,237,0,0,1659,1098.96,560.04,Net Banking
+969,2025-05-26 00:00:00,Davanagere,Retail,Fitness,Yoga Mat,2,1366,0.05,136.6,2595.4,1620.27,975.13,Cash
+970,2025-01-08 00:00:00,Bengaluru,Online,Stationery,File Folder,1,523,0,0,523,406.73,116.27,Card
+971,2025-02-24 00:00:00,Bengaluru,Wholesale,Home,Water Bottle,2,833,0,0,1666,1239.24,426.76,Cash
+972,2025-05-14 00:00:00,Mysuru,Wholesale,Electronics,Power Bank,3,1158,0,0,3474,1974.95,1499.05,Net Banking
+973,2025-03-15 00:00:00,Davanagere,Retail,Home,Wall Clock,2,1435,0,0,2870,1782.24,1087.76,Cash
+974,2025-05-21 00:00:00,Davanagere,Online,Electronics,Headphones,4,1382,0,0,5528,3575.17,1952.83,Net Banking
+975,2025-01-08 00:00:00,Mangaluru,Wholesale,Electronics,Keyboard,1,1418,0.15,212.7,1205.3,939.62,265.68,Cash
+976,2025-10-07 00:00:00,Mysuru,Online,Fitness,Yoga Mat,7,1388,0,0,9716,7289.26,2426.74,Card
+977,2025-11-20 00:00:00,Davanagere,Online,Stationery,Notebook,5,150,0,0,750,547.12,202.88,UPI
+978,2025-06-27 00:00:00,Davanagere,Retail,Fitness,Gym Gloves,3,545,0,0,1635,957.59,677.41,Card
+979,2025-01-29 00:00:00,Mangaluru,Wholesale,Fitness,Yoga Mat,7,1665,0.15,1748.25,9906.75,6728.84,3177.91,Card
+980,2025-10-22 00:00:00,Bengaluru,Wholesale,Fitness,Resistance Band,2,1346,0,0,2692,1671.43,1020.57,UPI
+981,2025-02-13 00:00:00,Mangaluru,Online,Stationery,Desk Organizer,3,654,0,0,1962,1448.9,513.1,Cash
+982,2025-05-10 00:00:00,Bengaluru,Wholesale,Home,Bedsheet,7,1577,0,0,11039,6142.91,4896.09,Net Banking
+983,2025-08-12 00:00:00,Mangaluru,Online,Electronics,Headphones,6,524,0.15,471.6,2672.4,1786.33,886.07,Cash
+984,2025-01-03 00:00:00,Mysuru,Online,Fitness,Skipping Rope,3,666,0,0,1998,1372.07,625.93,UPI
+985,2025-08-26 00:00:00,Davanagere,Retail,Home,Bedsheet,2,722,0.1,144.4,1299.6,805.22,494.38,Cash
+986,2025-11-03 00:00:00,Mangaluru,Wholesale,Home,Wall Clock,4,544,0,0,2176,1501.51,674.49,UPI
+987,2025-01-26 00:00:00,Mangaluru,Wholesale,Fitness,Yoga Mat,6,252,0.1,151.2,1360.8,863.65,497.15,Card
+988,2025-11-25 00:00:00,Bengaluru,Retail,Stationery,Marker Set,7,633,0,0,4431,3456.22,974.78,Net Banking
+989,2025-12-27 00:00:00,Mysuru,Wholesale,Stationery,Desk Organizer,7,291,0,0,2037,1549.11,487.89,Net Banking
+990,2025-01-17 00:00:00,Mysuru,Online,Electronics,Wireless Mouse,1,1574,0.05,78.7,1495.3,1118.07,377.23,Net Banking
+991,2025-12-21 00:00:00,Hubballi,Retail,Stationery,Desk Organizer,2,681,0,0,1362,938.27,423.73,Net Banking
+992,2025-11-10 00:00:00,Bengaluru,Retail,Stationery,Notebook,4,99,0.05,19.8,376.2,272.64,103.56,UPI
+993,2025-11-18 00:00:00,Mysuru,Retail,Electronics,Power Bank,5,1915,0.1,957.5,8617.5,6241.17,2376.33,Cash
+994,2025-04-24 00:00:00,Hubballi,Wholesale,Fitness,Resistance Band,6,1244,0.05,373.2,7090.8,5096.92,1993.88,Card
+995,2025-03-13 00:00:00,Davanagere,Wholesale,Electronics,Keyboard,3,989,0.05,148.35,2818.65,1567.12,1251.53,Net Banking
+996,2025-11-26 00:00:00,Hubballi,Retail,Stationery,Desk Organizer,5,452,0.05,113,2147,1456.61,690.39,Net Banking
+997,2025-02-25 00:00:00,Mangaluru,Retail,Home,Storage Box,7,433,0.1,303.1,2727.9,1537.19,1190.71,Net Banking
+998,2025-03-20 00:00:00,Bengaluru,Retail,Electronics,Headphones,2,523,0,0,1046,690.19,355.81,Net Banking
+999,2025-08-08 00:00:00,Davanagere,Online,Stationery,Notebook,7,95,0.1,66.5,598.5,469.66,128.84,UPI
+1000,2025-12-23 00:00:00,Mangaluru,Online,Electronics,Power Bank,1,1350,0.05,67.5,1282.5,707.12,575.38,UPI
+1001,2025-12-14 00:00:00,Hubballi,Wholesale,Electronics,Headphones,2,2198,0,0,4396,3006.87,1389.13,Card
+1002,2025-06-07 00:00:00,Mangaluru,Wholesale,Stationery,Pen Set,1,688,0.1,68.8,619.2,349.74,269.46,Card
+1003,2025-11-30 00:00:00,Mangaluru,Retail,Fitness,Gym Gloves,2,329,0.05,32.9,625.1,507.34,117.76,Cash
+1004,2025-06-13 00:00:00,Mysuru,Wholesale,Fitness,Gym Gloves,1,1861,0.05,93.05,1767.95,1410.27,357.68,UPI
+1005,2025-02-25 00:00:00,Davanagere,Retail,Electronics,USB Cable,7,1343,0,0,9401,5245.54,4155.46,UPI
+1006,2025-09-10 00:00:00,Hubballi,Retail,Electronics,Wireless Mouse,1,576,0.05,28.8,547.2,415.67,131.53,UPI
+1007,2025-05-31 00:00:00,Mangaluru,Wholesale,Fitness,Skipping Rope,4,2003,0,0,8012,5871.39,2140.61,UPI
+1008,2025-09-26 00:00:00,Davanagere,Retail,Electronics,USB Cable,4,684,0,0,2736,1882.61,853.39,Card
+1009,2025-02-16 00:00:00,Mangaluru,Online,Fitness,Dumbbells,2,625,0,0,1250,937.86,312.14,UPI
+1010,2025-12-04 00:00:00,Davanagere,Retail,Fitness,Dumbbells,1,1813,0.05,90.65,1722.35,1280.03,442.32,Cash
+1011,2025-07-21 00:00:00,Davanagere,Online,Electronics,Headphones,3,408,0.05,61.2,1162.8,904.19,258.61,Cash
+1012,2025-10-07 00:00:00,Bengaluru,Online,Fitness,Dumbbells,4,1647,0.05,329.4,6258.6,3991.08,2267.52,Cash
+1013,2025-09-30 00:00:00,Hubballi,Wholesale,Fitness,Gym Gloves,1,1462,0,0,1462,951.59,510.41,UPI
+1014,2025-05-03 00:00:00,Bengaluru,Online,Fitness,Dumbbells,3,863,0.05,129.45,2459.55,1859.41,600.14,Cash
+1015,2025-09-24 00:00:00,Mysuru,Online,Stationery,Marker Set,7,294,0.15,308.7,1749.3,1247.44,501.86,Net Banking
+1016,2025-09-08 00:00:00,Bengaluru,Retail,Stationery,Pen Set,7,648,0.05,226.8,4309.2,3152.19,1157.01,UPI
+1017,2025-04-19 00:00:00,Mangaluru,Retail,Fitness,Skipping Rope,1,830,0,0,830,582.6,247.4,Net Banking
+1018,2025-12-17 00:00:00,Mangaluru,Online,Electronics,Keyboard,3,651,0.05,97.65,1855.35,1513.98,341.37,UPI
+1019,2025-06-01 00:00:00,Mangaluru,Retail,Home,Bedsheet,4,770,0.1,308,2772,2209.24,562.76,Cash
+1020,2025-11-02 00:00:00,Mysuru,Retail,Electronics,Power Bank,3,2026,0.05,303.9,5774.1,4578.64,1195.46,UPI
+1021,2025-12-08 00:00:00,Bengaluru,Online,Electronics,USB Cable,3,1089,0,0,3267,2598.51,668.49,Net Banking
+1022,2025-10-01 00:00:00,Bengaluru,Online,Home,Table Lamp,4,1381,0,0,5524,3593.02,1930.98,Cash
+1023,2025-09-30 00:00:00,Hubballi,Wholesale,Fitness,Skipping Rope,1,1371,0,0,1371,905.08,465.92,Card
+1024,2025-06-12 00:00:00,Davanagere,Online,Electronics,Wireless Mouse,3,907,0,0,2721,1955.73,765.27,UPI
+1025,2025-10-04 00:00:00,Mangaluru,Wholesale,Electronics,Headphones,4,1400,0.05,280,5320,2947.85,2372.15,Net Banking
+1026,2025-01-28 00:00:00,Hubballi,Retail,Fitness,Yoga Mat,7,1648,0,0,11536,6467.68,5068.32,Cash
+1027,2025-11-29 00:00:00,Hubballi,Wholesale,Fitness,Skipping Rope,6,1158,0.05,347.4,6600.6,5020.09,1580.51,Card
+1028,2025-07-15 00:00:00,Hubballi,Retail,Fitness,Resistance Band,5,1055,0,0,5275,3599.04,1675.96,Net Banking
+1029,2025-07-20 00:00:00,Bengaluru,Online,Electronics,Headphones,1,1169,0,0,1169,653.57,515.43,UPI
+1030,2025-09-13 00:00:00,Davanagere,Online,Home,Table Lamp,3,1630,0,0,4890,3825.45,1064.55,Cash
+1031,2025-04-25 00:00:00,Hubballi,Online,Home,Storage Box,7,284,0,0,1988,1172.58,815.42,UPI
+1032,2025-03-06 00:00:00,Mysuru,Online,Electronics,Keyboard,4,1103,0.05,220.6,4191.4,3168.35,1023.05,Card
+1033,2025-04-09 00:00:00,Mangaluru,Retail,Stationery,Marker Set,4,161,0.15,96.6,547.4,407.91,139.49,Net Banking
+1034,2025-08-10 00:00:00,Mangaluru,Wholesale,Fitness,Skipping Rope,5,1055,0,0,5275,3138.12,2136.88,Card
+1035,2025-12-23 00:00:00,Bengaluru,Retail,Stationery,Marker Set,5,51,0.05,12.75,242.25,172.95,69.3,UPI
+1036,2025-08-15 00:00:00,Mangaluru,Online,Stationery,Marker Set,6,114,0,0,684,477.05,206.95,Net Banking
+1037,2025-09-19 00:00:00,Davanagere,Wholesale,Home,Water Bottle,1,414,0.05,20.7,393.3,320.82,72.48,UPI
+1038,2025-10-27 00:00:00,Mangaluru,Retail,Electronics,Power Bank,2,1651,0,0,3302,2274.78,1027.22,Card
+1039,2025-08-24 00:00:00,Mysuru,Wholesale,Fitness,Dumbbells,7,2035,0,0,14245,10962.22,3282.78,Card
+1040,2025-12-27 00:00:00,Hubballi,Wholesale,Fitness,Gym Gloves,3,877,0,0,2631,1875.92,755.08,Cash
+1041,2025-01-26 00:00:00,Mysuru,Online,Home,Table Lamp,4,366,0,0,1464,1182.9,281.1,Cash
+1042,2025-02-22 00:00:00,Mysuru,Online,Fitness,Resistance Band,3,277,0,0,831,513.36,317.64,Card
+1043,2025-11-18 00:00:00,Hubballi,Wholesale,Home,Storage Box,5,487,0,0,2435,1763.52,671.48,UPI
+1044,2025-11-05 00:00:00,Mangaluru,Retail,Fitness,Yoga Mat,3,1528,0.05,229.2,4354.8,2892.22,1462.58,Cash
+1045,2025-12-24 00:00:00,Mangaluru,Wholesale,Fitness,Yoga Mat,2,442,0,0,884,603.48,280.52,Cash
+1046,2025-10-13 00:00:00,Hubballi,Online,Stationery,Desk Organizer,2,669,0.1,133.8,1204.2,986.88,217.32,Cash
+1047,2025-04-04 00:00:00,Davanagere,Wholesale,Home,Storage Box,1,718,0.15,107.7,610.3,479.6,130.7,Card
+1048,2025-07-12 00:00:00,Davanagere,Wholesale,Home,Bedsheet,7,1123,0,0,7861,4477.11,3383.89,Cash
+1049,2025-08-19 00:00:00,Hubballi,Wholesale,Stationery,Marker Set,3,127,0,0,381,245.16,135.84,Net Banking
+1050,2025-09-12 00:00:00,Davanagere,Retail,Stationery,File Folder,1,320,0.15,48,272,185.84,86.16,Net Banking
+1051,2025-09-15 00:00:00,Mysuru,Wholesale,Fitness,Resistance Band,1,1129,0,0,1129,726.55,402.45,UPI
+1052,2025-06-21 00:00:00,Hubballi,Wholesale,Fitness,Resistance Band,7,2158,0.05,755.3,14350.7,10006,4344.7,Cash
+1053,2025-10-07 00:00:00,Hubballi,Wholesale,Home,Table Lamp,1,193,0.15,28.95,164.05,97.01,67.04,Card
+1054,2025-06-24 00:00:00,Mangaluru,Wholesale,Stationery,Notebook,7,242,0,0,1694,1020.22,673.78,Net Banking
+1055,2025-04-01 00:00:00,Hubballi,Online,Electronics,USB Cable,6,1601,0.05,480.3,9125.7,7089.95,2035.75,Card
+1056,2025-01-05 00:00:00,Mysuru,Online,Fitness,Resistance Band,4,1426,0.05,285.2,5418.8,4428.76,990.04,Cash
+1057,2025-05-02 00:00:00,Mysuru,Retail,Home,Wall Clock,6,245,0,0,1470,913.74,556.26,Net Banking
+1058,2025-12-08 00:00:00,Davanagere,Wholesale,Fitness,Yoga Mat,2,1696,0.1,339.2,3052.8,2350.33,702.47,UPI
+1059,2025-05-17 00:00:00,Mysuru,Online,Electronics,Wireless Mouse,7,2346,0.15,2463.3,13958.7,11112.42,2846.28,Net Banking
+1060,2025-12-18 00:00:00,Mysuru,Wholesale,Home,Table Lamp,7,1463,0.1,1024.1,9216.9,7074.9,2142,Card
+1061,2025-03-22 00:00:00,Mangaluru,Online,Home,Storage Box,6,581,0,0,3486,2571.14,914.86,Card
+1062,2025-12-29 00:00:00,Mangaluru,Online,Electronics,Wireless Mouse,2,903,0,0,1806,1381.79,424.21,Cash
+1063,2025-09-13 00:00:00,Bengaluru,Retail,Home,Storage Box,2,428,0,0,856,476.89,379.11,Card
+1064,2025-08-04 00:00:00,Bengaluru,Online,Electronics,Wireless Mouse,5,1940,0,0,9700,7450.97,2249.03,UPI
+1065,2025-03-06 00:00:00,Mysuru,Wholesale,Home,Table Lamp,5,158,0.05,39.5,750.5,555.82,194.68,Net Banking
+1066,2025-04-09 00:00:00,Hubballi,Wholesale,Home,Storage Box,3,161,0.1,48.3,434.7,244.15,190.55,Net Banking
+1067,2025-10-12 00:00:00,Hubballi,Wholesale,Fitness,Resistance Band,6,1772,0.15,1594.8,9037.2,6415.27,2621.93,Net Banking
+1068,2025-04-23 00:00:00,Hubballi,Online,Stationery,File Folder,4,72,0,0,288,170.79,117.21,Cash
+1069,2025-12-22 00:00:00,Davanagere,Online,Electronics,Headphones,4,2424,0,0,9696,5355.92,4340.08,Cash
+1070,2025-07-10 00:00:00,Hubballi,Retail,Home,Table Lamp,7,693,0.1,485.1,4365.9,2751.11,1614.79,Net Banking
+1071,2025-02-15 00:00:00,Bengaluru,Wholesale,Fitness,Resistance Band,4,792,0,0,3168,2589.89,578.11,UPI
+1072,2025-10-27 00:00:00,Mysuru,Retail,Stationery,Desk Organizer,1,429,0,0,429,325.92,103.08,Card
+1073,2025-01-13 00:00:00,Davanagere,Retail,Stationery,Notebook,3,307,0,0,921,554.72,366.28,Cash
+1074,2025-02-01 00:00:00,Mangaluru,Online,Home,Storage Box,2,1524,0.05,152.4,2895.6,2271.78,623.82,Card
+1075,2025-04-11 00:00:00,Mysuru,Wholesale,Electronics,Wireless Mouse,5,441,0.1,220.5,1984.5,1591.46,393.04,Card
+1076,2025-09-28 00:00:00,Mangaluru,Retail,Electronics,USB Cable,7,1879,0,0,13153,9205.42,3947.58,Cash
+1077,2025-09-06 00:00:00,Mangaluru,Retail,Home,Bedsheet,1,1460,0,0,1460,1028.43,431.57,Net Banking
+1078,2025-01-28 00:00:00,Mangaluru,Online,Electronics,Keyboard,6,2223,0.1,1333.8,12004.2,9819.43,2184.77,Cash
+1079,2025-08-27 00:00:00,Davanagere,Wholesale,Home,Storage Box,1,913,0.1,91.3,821.7,547.8,273.9,UPI
+1080,2025-01-10 00:00:00,Bengaluru,Online,Stationery,Pen Set,1,632,0,0,632,359.5,272.5,Net Banking
+1081,2025-07-18 00:00:00,Bengaluru,Retail,Electronics,USB Cable,3,441,0,0,1323,829.55,493.45,Card
+1082,2025-12-08 00:00:00,Hubballi,Wholesale,Home,Table Lamp,2,925,0.05,92.5,1757.5,1082.08,675.42,Cash
+1083,2025-09-02 00:00:00,Bengaluru,Retail,Fitness,Gym Gloves,4,765,0,0,3060,2049.07,1010.93,Card
+1084,2025-05-27 00:00:00,Davanagere,Wholesale,Electronics,Power Bank,7,1535,0,0,10745,8084.9,2660.1,UPI
+1085,2025-08-16 00:00:00,Hubballi,Wholesale,Fitness,Yoga Mat,4,1095,0,0,4380,2521.19,1858.81,Cash
+1086,2025-02-09 00:00:00,Mysuru,Wholesale,Stationery,Pen Set,1,632,0,0,632,450.65,181.35,UPI
+1087,2025-05-19 00:00:00,Mangaluru,Online,Fitness,Gym Gloves,4,1975,0.05,395,7505,4217.88,3287.12,Cash
+1088,2025-05-29 00:00:00,Bengaluru,Retail,Fitness,Yoga Mat,1,451,0.05,22.55,428.45,311,117.45,Cash
+1089,2025-08-26 00:00:00,Mangaluru,Retail,Electronics,Power Bank,3,914,0,0,2742,1810.06,931.94,Card
+1090,2025-07-12 00:00:00,Mangaluru,Retail,Electronics,Wireless Mouse,5,2211,0.15,1658.25,9396.75,6425.95,2970.8,Card
+1091,2025-09-29 00:00:00,Bengaluru,Wholesale,Electronics,Power Bank,4,2443,0.1,977.2,8794.8,6515.42,2279.38,Cash
+1092,2025-03-25 00:00:00,Mysuru,Retail,Stationery,Notebook,3,206,0,0,618,402.78,215.22,UPI
+1093,2025-11-14 00:00:00,Mysuru,Wholesale,Electronics,Keyboard,6,1988,0,0,11928,9256.78,2671.22,Card
+1094,2025-01-31 00:00:00,Davanagere,Retail,Fitness,Skipping Rope,4,1084,0.05,216.8,4119.2,2982.21,1136.99,Card
+1095,2025-07-22 00:00:00,Mysuru,Wholesale,Electronics,Power Bank,3,1596,0.05,239.4,4548.6,2667.18,1881.42,UPI
+1096,2025-06-18 00:00:00,Davanagere,Wholesale,Stationery,Notebook,3,176,0,0,528,427.5,100.5,Net Banking
+1097,2025-01-15 00:00:00,Hubballi,Online,Fitness,Gym Gloves,4,1113,0.1,445.2,4006.8,2519.18,1487.62,Card
+1098,2025-10-30 00:00:00,Mangaluru,Online,Fitness,Skipping Rope,6,1799,0.05,539.7,10254.3,7837.05,2417.25,UPI
+1099,2025-03-20 00:00:00,Davanagere,Online,Stationery,File Folder,3,361,0,0,1083,792.42,290.58,UPI
+1100,2025-03-19 00:00:00,Davanagere,Retail,Electronics,Keyboard,2,2455,0.05,245.5,4664.5,2919.22,1745.28,UPI
+1101,2025-02-13 00:00:00,Hubballi,Online,Electronics,Power Bank,3,2017,0,0,6051,3960.79,2090.21,Net Banking
+1102,2025-08-13 00:00:00,Hubballi,Retail,Fitness,Resistance Band,2,919,0.1,183.8,1654.2,1124.88,529.32,UPI
+1103,2025-10-02 00:00:00,Hubballi,Retail,Electronics,Keyboard,7,1686,0.05,590.1,11211.9,8153.12,3058.78,UPI
+1104,2025-12-23 00:00:00,Hubballi,Wholesale,Home,Wall Clock,5,1361,0,0,6805,4881.85,1923.15,Cash
+1105,2025-05-22 00:00:00,Hubballi,Retail,Home,Storage Box,7,819,0,0,5733,3897.72,1835.28,Cash
+1106,2025-04-07 00:00:00,Mysuru,Retail,Fitness,Skipping Rope,6,1741,0,0,10446,6334.45,4111.55,Card
+1107,2025-08-28 00:00:00,Davanagere,Online,Electronics,USB Cable,2,1921,0,0,3842,2448.96,1393.04,UPI
+1108,2025-11-02 00:00:00,Bengaluru,Retail,Fitness,Dumbbells,3,1604,0,0,4812,2985.12,1826.88,Card
+1109,2025-07-16 00:00:00,Mysuru,Wholesale,Fitness,Yoga Mat,2,1094,0,0,2188,1490.14,697.86,Cash
+1110,2025-06-27 00:00:00,Mysuru,Online,Electronics,Keyboard,6,2051,0,0,12306,8062.08,4243.92,UPI
+1111,2025-09-07 00:00:00,Mangaluru,Retail,Stationery,Pen Set,6,383,0,0,2298,1734.69,563.31,Cash
+1112,2025-10-14 00:00:00,Bengaluru,Retail,Electronics,USB Cable,3,1782,0.05,267.3,5078.7,3033.18,2045.52,Card
+1113,2025-09-28 00:00:00,Mysuru,Online,Home,Water Bottle,5,360,0,0,1800,1235.9,564.1,Cash
+1114,2025-03-03 00:00:00,Bengaluru,Online,Stationery,Marker Set,3,668,0,0,2004,1576.81,427.19,Card
+1115,2025-01-29 00:00:00,Bengaluru,Online,Fitness,Resistance Band,2,1323,0,0,2646,1931,715,UPI
+1116,2025-07-12 00:00:00,Mysuru,Retail,Electronics,USB Cable,7,1430,0,0,10010,6243.11,3766.89,Cash
+1117,2025-08-08 00:00:00,Davanagere,Online,Stationery,Desk Organizer,6,221,0,0,1326,1076.02,249.98,UPI
+1118,2025-10-22 00:00:00,Davanagere,Retail,Stationery,Pen Set,1,370,0,0,370,220.17,149.83,UPI
+1119,2025-07-29 00:00:00,Bengaluru,Online,Home,Wall Clock,7,1555,0,0,10885,7080.86,3804.14,Card
+1120,2025-10-05 00:00:00,Bengaluru,Retail,Electronics,Power Bank,7,847,0,0,5929,3620.29,2308.71,Net Banking
+1121,2025-08-06 00:00:00,Hubballi,Online,Fitness,Skipping Rope,2,1026,0.05,102.6,1949.4,1186.36,763.04,UPI
+1122,2025-09-03 00:00:00,Bengaluru,Retail,Home,Table Lamp,4,1661,0,0,6644,5033.6,1610.4,Card
+1123,2025-05-22 00:00:00,Mysuru,Online,Fitness,Gym Gloves,6,1773,0.05,531.9,10106.1,5588.5,4517.6,Net Banking
+1124,2025-01-06 00:00:00,Davanagere,Wholesale,Electronics,USB Cable,7,1891,0.05,661.85,12575.15,8723.75,3851.4,UPI
+1125,2025-10-16 00:00:00,Mangaluru,Retail,Home,Water Bottle,4,1114,0.1,445.6,4010.4,3210.8,799.6,Net Banking
+1126,2025-11-03 00:00:00,Bengaluru,Wholesale,Stationery,File Folder,5,70,0.05,17.5,332.5,257.89,74.61,Cash
+1127,2025-02-25 00:00:00,Davanagere,Wholesale,Fitness,Skipping Rope,3,440,0,0,1320,836.46,483.54,Card
+1128,2025-04-23 00:00:00,Bengaluru,Retail,Fitness,Resistance Band,6,795,0,0,4770,2641.82,2128.18,Net Banking
+1129,2025-02-16 00:00:00,Hubballi,Retail,Stationery,File Folder,2,502,0.05,50.2,953.8,536.85,416.95,Net Banking
+1130,2025-12-18 00:00:00,Davanagere,Online,Electronics,USB Cable,2,517,0,0,1034,626.98,407.02,UPI
+1131,2025-01-10 00:00:00,Mangaluru,Retail,Stationery,File Folder,6,293,0.05,87.9,1670.1,1359.1,311,Card
+1132,2025-09-03 00:00:00,Bengaluru,Wholesale,Home,Table Lamp,2,360,0.05,36,684,428.54,255.46,Cash
+1133,2025-07-17 00:00:00,Hubballi,Retail,Fitness,Resistance Band,7,1534,0,0,10738,8634.51,2103.49,UPI
+1134,2025-03-10 00:00:00,Hubballi,Wholesale,Stationery,Pen Set,7,398,0.1,278.6,2507.4,2054.69,452.71,Cash
+1135,2025-04-23 00:00:00,Mangaluru,Wholesale,Electronics,Power Bank,1,525,0.1,52.5,472.5,296.35,176.15,Cash
+1136,2025-07-19 00:00:00,Davanagere,Online,Fitness,Resistance Band,7,863,0,0,6041,4040.46,2000.54,UPI
+1137,2025-10-28 00:00:00,Mysuru,Wholesale,Stationery,Desk Organizer,3,316,0,0,948,592.93,355.07,UPI
+1138,2025-07-24 00:00:00,Bengaluru,Online,Stationery,Marker Set,5,678,0,0,3390,2181.65,1208.35,Card
+1139,2025-09-05 00:00:00,Bengaluru,Online,Fitness,Yoga Mat,7,1010,0,0,7070,3953.49,3116.51,Net Banking
+1140,2025-11-07 00:00:00,Mangaluru,Wholesale,Home,Bedsheet,4,1250,0.1,500,4500,2796.36,1703.64,Net Banking
+1141,2025-02-14 00:00:00,Hubballi,Wholesale,Stationery,Marker Set,5,568,0,0,2840,1750.1,1089.9,UPI
+1142,2025-02-27 00:00:00,Mangaluru,Wholesale,Fitness,Skipping Rope,7,813,0.05,284.55,5406.45,3831.39,1575.06,Net Banking
+1143,2025-05-31 00:00:00,Hubballi,Wholesale,Electronics,Keyboard,5,1693,0,0,8465,5645.05,2819.95,Net Banking
+1144,2025-03-30 00:00:00,Mangaluru,Wholesale,Electronics,USB Cable,2,1934,0.1,386.8,3481.2,2607.09,874.11,Card
+1145,2025-02-04 00:00:00,Davanagere,Online,Fitness,Skipping Rope,1,2132,0.1,213.2,1918.8,1367.69,551.11,UPI
+1146,2025-08-21 00:00:00,Mysuru,Retail,Stationery,Notebook,2,108,0.05,10.8,205.2,116.65,88.55,Cash
+1147,2025-11-13 00:00:00,Davanagere,Wholesale,Stationery,File Folder,1,697,0.05,34.85,662.15,497.02,165.13,Net Banking
+1148,2025-03-16 00:00:00,Mangaluru,Wholesale,Home,Bedsheet,4,790,0,0,3160,2456.8,703.2,UPI
+1149,2025-09-17 00:00:00,Davanagere,Online,Home,Table Lamp,7,240,0,0,1680,1278.73,401.27,Cash
+1150,2025-10-05 00:00:00,Davanagere,Wholesale,Home,Water Bottle,3,187,0.15,84.15,476.85,307.26,169.59,Net Banking
+1151,2025-10-20 00:00:00,Hubballi,Wholesale,Electronics,Keyboard,2,2025,0.05,202.5,3847.5,2601.22,1246.28,Net Banking
+1152,2025-09-30 00:00:00,Hubballi,Retail,Home,Water Bottle,2,939,0,0,1878,1277.02,600.98,Net Banking
+1153,2025-11-05 00:00:00,Mysuru,Online,Home,Storage Box,4,642,0,0,2568,1941.87,626.13,Net Banking
+1154,2025-10-22 00:00:00,Bengaluru,Online,Home,Table Lamp,2,859,0.05,85.9,1632.1,1113.01,519.09,UPI
+1155,2025-11-20 00:00:00,Bengaluru,Online,Home,Storage Box,6,1598,0,0,9588,7041.73,2546.27,Card
+1156,2025-09-16 00:00:00,Bengaluru,Retail,Fitness,Gym Gloves,7,557,0.05,194.95,3704.05,2116.85,1587.2,Net Banking
+1157,2025-08-17 00:00:00,Bengaluru,Wholesale,Stationery,Desk Organizer,6,346,0,0,2076,1681.55,394.45,Net Banking
+1158,2025-02-06 00:00:00,Mangaluru,Online,Home,Storage Box,3,188,0,0,564,436.84,127.16,UPI
+1159,2025-10-12 00:00:00,Hubballi,Wholesale,Fitness,Gym Gloves,2,642,0,0,1284,1048.01,235.99,Net Banking
+1160,2025-06-16 00:00:00,Mangaluru,Online,Fitness,Yoga Mat,4,1429,0.05,285.8,5430.2,3033.7,2396.5,Cash
+1161,2025-04-26 00:00:00,Bengaluru,Online,Electronics,Headphones,3,1626,0,0,4878,3219.13,1658.87,Net Banking
+1162,2025-09-28 00:00:00,Davanagere,Online,Home,Bedsheet,4,164,0,0,656,518.29,137.71,Cash
+1163,2025-10-12 00:00:00,Mangaluru,Online,Stationery,File Folder,2,582,0,0,1164,749.45,414.55,UPI
+1164,2025-12-29 00:00:00,Bengaluru,Wholesale,Electronics,Power Bank,4,2265,0,0,9060,7039.12,2020.88,UPI
+1165,2025-07-02 00:00:00,Mangaluru,Retail,Home,Water Bottle,2,1283,0,0,2566,1509.03,1056.97,Cash
+1166,2025-01-16 00:00:00,Bengaluru,Retail,Stationery,Desk Organizer,7,427,0,0,2989,2320.51,668.49,Net Banking
+1167,2025-02-03 00:00:00,Davanagere,Retail,Electronics,Power Bank,5,1085,0.05,271.25,5153.75,3595.42,1558.33,Net Banking
+1168,2025-01-12 00:00:00,Bengaluru,Retail,Electronics,Keyboard,1,783,0,0,783,613.56,169.44,Net Banking
+1169,2025-01-15 00:00:00,Bengaluru,Retail,Stationery,Notebook,5,678,0,0,3390,2641.21,748.79,Card
+1170,2025-10-26 00:00:00,Davanagere,Online,Electronics,USB Cable,5,391,0,0,1955,1473.45,481.55,Card
+1171,2025-02-08 00:00:00,Mysuru,Wholesale,Stationery,Marker Set,4,462,0.05,92.4,1755.6,1110.42,645.18,Cash
+1172,2025-06-12 00:00:00,Mangaluru,Retail,Electronics,Power Bank,2,1003,0,0,2006,1389.47,616.53,Cash
+1173,2025-03-10 00:00:00,Mangaluru,Online,Home,Table Lamp,4,665,0,0,2660,1966.25,693.75,Net Banking
+1174,2025-06-11 00:00:00,Mangaluru,Online,Home,Water Bottle,3,633,0.1,189.9,1709.1,999.3,709.8,Cash
+1175,2025-07-09 00:00:00,Bengaluru,Online,Fitness,Skipping Rope,1,1593,0,0,1593,1047.51,545.49,UPI
+1176,2025-02-15 00:00:00,Davanagere,Wholesale,Electronics,Keyboard,5,999,0,0,4995,3311.48,1683.52,Net Banking
+1177,2025-07-17 00:00:00,Bengaluru,Retail,Stationery,Marker Set,1,509,0.05,25.45,483.55,328.84,154.71,Net Banking
+1178,2025-08-26 00:00:00,Bengaluru,Wholesale,Fitness,Dumbbells,2,669,0.05,66.9,1271.1,797.32,473.78,Card
+1179,2025-04-03 00:00:00,Hubballi,Online,Stationery,Pen Set,4,272,0.15,163.2,924.8,601.49,323.31,UPI
+1180,2025-10-28 00:00:00,Bengaluru,Retail,Fitness,Skipping Rope,4,301,0.15,180.6,1023.4,584.16,439.24,UPI
+1181,2025-05-25 00:00:00,Davanagere,Wholesale,Stationery,Notebook,2,386,0,0,772,470.1,301.9,Cash
+1182,2025-01-21 00:00:00,Hubballi,Wholesale,Electronics,USB Cable,5,2392,0.05,598,11362,7257.91,4104.09,UPI
+1183,2025-11-28 00:00:00,Mangaluru,Online,Electronics,Power Bank,2,1332,0.1,266.4,2397.6,1902.19,495.41,UPI
+1184,2025-09-12 00:00:00,Bengaluru,Wholesale,Fitness,Skipping Rope,7,2182,0.1,1527.4,13746.6,11260.09,2486.51,Cash
+1185,2025-06-05 00:00:00,Mangaluru,Retail,Fitness,Yoga Mat,6,1650,0,0,9900,7303.82,2596.18,Net Banking
+1186,2025-07-08 00:00:00,Mysuru,Wholesale,Electronics,Keyboard,4,2343,0,0,9372,7234.97,2137.03,UPI
+1187,2025-06-30 00:00:00,Bengaluru,Retail,Electronics,Keyboard,5,818,0,0,4090,3220.11,869.89,Cash
+1188,2025-07-30 00:00:00,Davanagere,Online,Home,Bedsheet,1,1083,0,0,1083,597.29,485.71,Net Banking
+1189,2025-07-15 00:00:00,Bengaluru,Wholesale,Fitness,Yoga Mat,4,1006,0,0,4024,2647.03,1376.97,Cash
+1190,2025-12-31 00:00:00,Mysuru,Retail,Fitness,Skipping Rope,7,1324,0.05,463.4,8804.6,5906.37,2898.23,Cash
+1191,2025-12-03 00:00:00,Davanagere,Wholesale,Electronics,USB Cable,3,1698,0,0,5094,2826.83,2267.17,UPI
+1192,2025-08-02 00:00:00,Bengaluru,Wholesale,Electronics,Power Bank,4,1254,0.05,250.8,4765.2,3741.25,1023.95,Net Banking
+1193,2025-05-25 00:00:00,Mysuru,Wholesale,Home,Table Lamp,4,1448,0,0,5792,4549.31,1242.69,Cash
+1194,2025-05-25 00:00:00,Mangaluru,Online,Electronics,USB Cable,1,1723,0.15,258.45,1464.55,1198.88,265.67,Card
+1195,2025-03-11 00:00:00,Davanagere,Retail,Electronics,USB Cable,3,1652,0,0,4956,3047.66,1908.34,Net Banking
+1196,2025-04-10 00:00:00,Davanagere,Online,Home,Bedsheet,5,261,0.1,130.5,1174.5,738.09,436.41,Cash
+1197,2025-01-30 00:00:00,Mangaluru,Retail,Electronics,Keyboard,2,1371,0.1,274.2,2467.8,1850.16,617.64,Cash
+1198,2025-09-21 00:00:00,Mysuru,Wholesale,Electronics,Wireless Mouse,2,1987,0,0,3974,2857.45,1116.55,Cash
+1199,2025-06-29 00:00:00,Bengaluru,Retail,Fitness,Gym Gloves,7,1441,0.05,504.35,9582.65,7321.97,2260.68,UPI
+1200,2025-06-10 00:00:00,Mysuru,Retail,Electronics,Power Bank,3,1633,0.05,244.95,4654.05,3459.91,1194.14,UPI
